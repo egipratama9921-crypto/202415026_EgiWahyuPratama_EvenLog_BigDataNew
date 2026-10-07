@@ -1,0 +1,501 @@
+﻿Case_ID;Activity;Timestamp;Resource;Nama_Barang;Kategori;Harga_Beli;Harga_Jual;Jumlah_Stok;Lokasi_Gudang;Status
+BRG-001;Penerimaan & Pencatatan Barang;2026-09-01 08:00:00;CV Sentosa Perkasa;Laptop Gaming Pro;Elektronik;Rp 24.441.000;Rp 29.451.000;62;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-002;Penerimaan & Pencatatan Barang;2026-09-01 10:00:00;CV Sentosa Perkasa;Router Wi-Fi 6;Peralatan Jaringan;Rp 1.484.000;Rp 1.716.000;28;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-003;Penerimaan & Pencatatan Barang;2026-09-01 12:00:00;PT Indo Sarana;Router Wi-Fi 6;Peralatan Jaringan;Rp 1.777.000;Rp 2.114.000;171;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-004;Penerimaan & Pencatatan Barang;2026-09-01 14:00:00;PT Techindo Jaya;Webcam HD 1080p;Aksesoris Komputer;Rp 558.000;Rp 672.000;227;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-005;Penerimaan & Pencatatan Barang;2026-09-01 16:00:00;PT Mega Elektronik;Robot Vacuum Cleaner;Peralatan Rumah Tangga;Rp 3.165.000;Rp 3.738.000;250;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-006;Penerimaan & Pencatatan Barang;2026-09-01 18:00:00;CV Bina Logistik;Smart TV 55 Inch;Elektronik;Rp 5.811.000;Rp 7.099.000;93;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-007;Penerimaan & Pencatatan Barang;2026-09-01 20:00:00;PT Mandiri Utama;Smart TV 55 Inch;Elektronik;Rp 9.498.000;Rp 11.159.000;241;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-008;Penerimaan & Pencatatan Barang;2026-09-01 22:00:00;PT Mega Elektronik;Access Point Enterprise;Peralatan Jaringan;Rp 2.939.000;Rp 3.749.000;231;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-009;Penerimaan & Pencatatan Barang;2026-09-02 00:00:00;PT Techindo Jaya;Laptop Gaming Pro;Elektronik;Rp 23.094.000;Rp 27.610.000;79;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-010;Penerimaan & Pencatatan Barang;2026-09-02 02:00:00;PT Mega Elektronik;Smart TV 55 Inch;Elektronik;Rp 7.331.000;Rp 9.095.000;218;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-011;Penerimaan & Pencatatan Barang;2026-09-02 04:00:00;PT Indo Sarana;Printer Laser Multifungsi;Peralatan Kantor;Rp 2.678.000;Rp 3.438.000;184;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-012;Penerimaan & Pencatatan Barang;2026-09-02 06:00:00;PT Mandiri Utama;Switch Gigabit 16-Port;Peralatan Jaringan;Rp 1.260.000;Rp 1.632.000;46;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-013;Penerimaan & Pencatatan Barang;2026-09-02 08:00:00;PT Techindo Jaya;Proyektor Portable;Peralatan Kantor;Rp 3.121.000;Rp 4.016.000;220;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-014;Penerimaan & Pencatatan Barang;2026-09-02 10:00:00;CV Bina Logistik;Monitor 4K 27 Inch;Elektronik;Rp 5.182.000;Rp 6.236.000;59;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-015;Penerimaan & Pencatatan Barang;2026-09-02 12:00:00;PT Mandiri Utama;Webcam HD 1080p;Aksesoris Komputer;Rp 457.000;Rp 606.000;169;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-016;Penerimaan & Pencatatan Barang;2026-09-02 14:00:00;PT Mega Elektronik;Meja Stand-Desk Auto;Peralatan Kantor;Rp 3.534.000;Rp 4.590.000;142;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-017;Penerimaan & Pencatatan Barang;2026-09-02 16:00:00;CV Bina Logistik;NAS Storage 2-Bay;Peralatan Jaringan;Rp 4.018.000;Rp 4.796.000;40;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-018;Penerimaan & Pencatatan Barang;2026-09-02 18:00:00;PT Indo Sarana;Laptop Gaming Pro;Elektronik;Rp 13.839.000;Rp 16.337.000;45;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-019;Penerimaan & Pencatatan Barang;2026-09-02 20:00:00;CV Bina Logistik;Router Wi-Fi 6;Peralatan Jaringan;Rp 1.406.000;Rp 1.724.000;124;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-020;Penerimaan & Pencatatan Barang;2026-09-02 22:00:00;PT Mega Elektronik;Router Wi-Fi 6;Peralatan Jaringan;Rp 840.000;Rp 1.080.000;142;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-021;Penerimaan & Pencatatan Barang;2026-09-03 00:00:00;PT Indo Sarana;Monitor 4K 27 Inch;Elektronik;Rp 5.323.000;Rp 6.289.000;5;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-022;Penerimaan & Pencatatan Barang;2026-09-03 02:00:00;PT Indo Sarana;Switch Gigabit 16-Port;Peralatan Jaringan;Rp 1.232.000;Rp 1.641.000;227;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-023;Penerimaan & Pencatatan Barang;2026-09-03 04:00:00;CV Bina Logistik;Switch Gigabit 16-Port;Peralatan Jaringan;Rp 860.000;Rp 1.053.000;46;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-024;Penerimaan & Pencatatan Barang;2026-09-03 06:00:00;PT Mega Elektronik;Access Point Enterprise;Peralatan Jaringan;Rp 2.224.000;Rp 2.566.000;242;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-025;Penerimaan & Pencatatan Barang;2026-09-03 08:00:00;PT Techindo Jaya;Mouse Wireless RGB;Aksesoris Komputer;Rp 276.000;Rp 365.000;247;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-026;Penerimaan & Pencatatan Barang;2026-09-03 10:00:00;CV Sentosa Perkasa;Air Purifier HEPA;Peralatan Rumah Tangga;Rp 2.795.000;Rp 3.512.000;37;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-027;Penerimaan & Pencatatan Barang;2026-09-03 12:00:00;PT Mandiri Utama;Switch Gigabit 16-Port;Peralatan Jaringan;Rp 977.000;Rp 1.226.000;160;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-028;Penerimaan & Pencatatan Barang;2026-09-03 14:00:00;PT Indo Sarana;Switch Gigabit 16-Port;Peralatan Jaringan;Rp 1.447.000;Rp 1.754.000;176;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-029;Penerimaan & Pencatatan Barang;2026-09-03 16:00:00;PT Techindo Jaya;Blender High Power;Peralatan Rumah Tangga;Rp 873.000;Rp 1.025.000;62;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-030;Penerimaan & Pencatatan Barang;2026-09-03 18:00:00;PT Techindo Jaya;Tablet Grafis;Elektronik;Rp 4.823.000;Rp 5.768.000;61;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-031;Penerimaan & Pencatatan Barang;2026-09-03 20:00:00;PT Mega Elektronik;Smartphone Flagship;Elektronik;Rp 9.130.000;Rp 12.152.000;225;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-032;Penerimaan & Pencatatan Barang;2026-09-03 22:00:00;CV Bina Logistik;Switch Gigabit 16-Port;Peralatan Jaringan;Rp 992.000;Rp 1.273.000;59;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-033;Penerimaan & Pencatatan Barang;2026-09-04 00:00:00;PT Mandiri Utama;NAS Storage 2-Bay;Peralatan Jaringan;Rp 3.519.000;Rp 4.599.000;211;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-034;Penerimaan & Pencatatan Barang;2026-09-04 02:00:00;PT Mandiri Utama;Laptop Gaming Pro;Elektronik;Rp 23.055.000;Rp 28.500.000;113;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-035;Penerimaan & Pencatatan Barang;2026-09-04 04:00:00;PT Techindo Jaya;Laptop Gaming Pro;Elektronik;Rp 13.016.000;Rp 16.016.000;91;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-036;Penerimaan & Pencatatan Barang;2026-09-04 06:00:00;CV Sentosa Perkasa;Keyboard Mekanikal;Aksesoris Komputer;Rp 962.000;Rp 1.192.000;113;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-037;Penerimaan & Pencatatan Barang;2026-09-04 08:00:00;CV Bina Logistik;Mesin Kopi Espresso;Peralatan Rumah Tangga;Rp 1.816.000;Rp 2.249.000;225;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-038;Penerimaan & Pencatatan Barang;2026-09-04 10:00:00;CV Sentosa Perkasa;Tablet Grafis;Elektronik;Rp 2.561.000;Rp 3.441.000;242;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-039;Penerimaan & Pencatatan Barang;2026-09-04 12:00:00;PT Techindo Jaya;Microwave Digital;Peralatan Rumah Tangga;Rp 1.909.000;Rp 2.276.000;107;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-040;Penerimaan & Pencatatan Barang;2026-09-04 14:00:00;PT Mandiri Utama;Air Purifier HEPA;Peralatan Rumah Tangga;Rp 2.018.000;Rp 2.427.000;205;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-041;Penerimaan & Pencatatan Barang;2026-09-04 16:00:00;CV Sentosa Perkasa;Blender High Power;Peralatan Rumah Tangga;Rp 1.094.000;Rp 1.415.000;44;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-042;Penerimaan & Pencatatan Barang;2026-09-04 18:00:00;PT Techindo Jaya;Mouse Wireless RGB;Aksesoris Komputer;Rp 434.000;Rp 504.000;85;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-043;Penerimaan & Pencatatan Barang;2026-09-04 20:00:00;CV Sentosa Perkasa;NAS Storage 2-Bay;Peralatan Jaringan;Rp 4.609.000;Rp 6.147.000;140;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-044;Penerimaan & Pencatatan Barang;2026-09-04 22:00:00;PT Indo Sarana;Router Wi-Fi 6;Peralatan Jaringan;Rp 989.000;Rp 1.150.000;22;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-045;Penerimaan & Pencatatan Barang;2026-09-05 00:00:00;PT Techindo Jaya;Air Purifier HEPA;Peralatan Rumah Tangga;Rp 2.394.000;Rp 2.870.000;157;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-046;Penerimaan & Pencatatan Barang;2026-09-05 02:00:00;PT Mega Elektronik;Blender High Power;Peralatan Rumah Tangga;Rp 992.000;Rp 1.244.000;244;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-047;Penerimaan & Pencatatan Barang;2026-09-05 04:00:00;PT Indo Sarana;Meja Stand-Desk Auto;Peralatan Kantor;Rp 3.614.000;Rp 4.442.000;176;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-048;Penerimaan & Pencatatan Barang;2026-09-05 06:00:00;PT Techindo Jaya;Robot Vacuum Cleaner;Peralatan Rumah Tangga;Rp 5.896.000;Rp 7.666.000;23;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-049;Penerimaan & Pencatatan Barang;2026-09-05 08:00:00;PT Mega Elektronik;Router Wi-Fi 6;Peralatan Jaringan;Rp 753.000;Rp 946.000;134;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-050;Penerimaan & Pencatatan Barang;2026-09-05 10:00:00;PT Mandiri Utama;Kursi Ergonomis;Peralatan Kantor;Rp 2.224.000;Rp 2.721.000;45;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-051;Penerimaan & Pencatatan Barang;2026-09-05 12:00:00;PT Techindo Jaya;Router Wi-Fi 6;Peralatan Jaringan;Rp 1.763.000;Rp 2.133.000;174;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-052;Penerimaan & Pencatatan Barang;2026-09-05 14:00:00;PT Mega Elektronik;Kursi Ergonomis;Peralatan Kantor;Rp 1.648.000;Rp 2.139.000;44;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-053;Penerimaan & Pencatatan Barang;2026-09-05 16:00:00;PT Indo Sarana;Switch Gigabit 16-Port;Peralatan Jaringan;Rp 1.452.000;Rp 1.769.000;180;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-054;Penerimaan & Pencatatan Barang;2026-09-05 18:00:00;PT Techindo Jaya;NAS Storage 2-Bay;Peralatan Jaringan;Rp 3.553.000;Rp 4.729.000;221;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-055;Penerimaan & Pencatatan Barang;2026-09-05 20:00:00;CV Sentosa Perkasa;Robot Vacuum Cleaner;Peralatan Rumah Tangga;Rp 2.184.000;Rp 2.513.000;202;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-056;Penerimaan & Pencatatan Barang;2026-09-05 22:00:00;PT Techindo Jaya;Webcam HD 1080p;Aksesoris Komputer;Rp 539.000;Rp 695.000;148;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-057;Penerimaan & Pencatatan Barang;2026-09-06 00:00:00;CV Bina Logistik;Smartphone Flagship;Elektronik;Rp 17.153.000;Rp 19.849.000;99;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-058;Penerimaan & Pencatatan Barang;2026-09-06 02:00:00;PT Techindo Jaya;Mesin Kopi Espresso;Peralatan Rumah Tangga;Rp 1.675.000;Rp 2.029.000;235;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-059;Penerimaan & Pencatatan Barang;2026-09-06 04:00:00;CV Bina Logistik;Keyboard Mekanikal;Aksesoris Komputer;Rp 1.099.000;Rp 1.286.000;204;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-060;Penerimaan & Pencatatan Barang;2026-09-06 06:00:00;CV Sentosa Perkasa;Switch Gigabit 16-Port;Peralatan Jaringan;Rp 948.000;Rp 1.254.000;209;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-061;Penerimaan & Pencatatan Barang;2026-09-06 08:00:00;PT Indo Sarana;Smartphone Flagship;Elektronik;Rp 13.573.000;Rp 17.732.000;110;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-062;Penerimaan & Pencatatan Barang;2026-09-06 10:00:00;PT Techindo Jaya;Meja Stand-Desk Auto;Peralatan Kantor;Rp 5.802.000;Rp 7.486.000;102;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-063;Penerimaan & Pencatatan Barang;2026-09-06 12:00:00;CV Sentosa Perkasa;Keyboard Mekanikal;Aksesoris Komputer;Rp 882.000;Rp 1.075.000;215;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-064;Penerimaan & Pencatatan Barang;2026-09-06 14:00:00;PT Techindo Jaya;Smartphone Flagship;Elektronik;Rp 14.685.000;Rp 17.851.000;226;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-065;Penerimaan & Pencatatan Barang;2026-09-06 16:00:00;CV Bina Logistik;Proyektor Portable;Peralatan Kantor;Rp 3.876.000;Rp 4.984.000;220;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-066;Penerimaan & Pencatatan Barang;2026-09-06 18:00:00;PT Techindo Jaya;Laptop Gaming Pro;Elektronik;Rp 16.382.000;Rp 19.424.000;72;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-067;Penerimaan & Pencatatan Barang;2026-09-06 20:00:00;PT Mandiri Utama;NAS Storage 2-Bay;Peralatan Jaringan;Rp 3.949.000;Rp 5.116.000;85;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-068;Penerimaan & Pencatatan Barang;2026-09-06 22:00:00;PT Mandiri Utama;Blender High Power;Peralatan Rumah Tangga;Rp 599.000;Rp 719.000;186;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-069;Penerimaan & Pencatatan Barang;2026-09-07 00:00:00;PT Indo Sarana;Switch Gigabit 16-Port;Peralatan Jaringan;Rp 1.081.000;Rp 1.336.000;247;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-070;Penerimaan & Pencatatan Barang;2026-09-07 02:00:00;PT Mega Elektronik;Access Point Enterprise;Peralatan Jaringan;Rp 2.591.000;Rp 3.419.000;189;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-071;Penerimaan & Pencatatan Barang;2026-09-07 04:00:00;CV Sentosa Perkasa;Robot Vacuum Cleaner;Peralatan Rumah Tangga;Rp 3.687.000;Rp 4.754.000;146;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-072;Penerimaan & Pencatatan Barang;2026-09-07 06:00:00;PT Mandiri Utama;Microwave Digital;Peralatan Rumah Tangga;Rp 1.264.000;Rp 1.609.000;82;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-073;Penerimaan & Pencatatan Barang;2026-09-07 08:00:00;CV Bina Logistik;Printer Laser Multifungsi;Peralatan Kantor;Rp 2.681.000;Rp 3.313.000;153;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-074;Penerimaan & Pencatatan Barang;2026-09-07 10:00:00;PT Mandiri Utama;Microwave Digital;Peralatan Rumah Tangga;Rp 1.827.000;Rp 2.347.000;135;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-075;Penerimaan & Pencatatan Barang;2026-09-07 12:00:00;PT Mega Elektronik;Monitor 4K 27 Inch;Elektronik;Rp 5.661.000;Rp 7.261.000;163;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-076;Penerimaan & Pencatatan Barang;2026-09-07 14:00:00;PT Techindo Jaya;Headset Gaming 7.1;Aksesoris Komputer;Rp 535.000;Rp 701.000;42;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-077;Penerimaan & Pencatatan Barang;2026-09-07 16:00:00;PT Mandiri Utama;Webcam HD 1080p;Aksesoris Komputer;Rp 570.000;Rp 752.000;23;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-078;Penerimaan & Pencatatan Barang;2026-09-07 18:00:00;PT Mandiri Utama;Switch Gigabit 16-Port;Peralatan Jaringan;Rp 1.453.000;Rp 1.873.000;131;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-079;Penerimaan & Pencatatan Barang;2026-09-07 20:00:00;CV Sentosa Perkasa;Mouse Wireless RGB;Aksesoris Komputer;Rp 205.000;Rp 267.000;61;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-080;Penerimaan & Pencatatan Barang;2026-09-07 22:00:00;PT Mandiri Utama;Tablet Grafis;Elektronik;Rp 3.545.000;Rp 4.727.000;36;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-081;Penerimaan & Pencatatan Barang;2026-09-08 00:00:00;PT Mandiri Utama;Blender High Power;Peralatan Rumah Tangga;Rp 986.000;Rp 1.251.000;248;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-082;Penerimaan & Pencatatan Barang;2026-09-08 02:00:00;PT Mandiri Utama;NAS Storage 2-Bay;Peralatan Jaringan;Rp 3.167.000;Rp 4.113.000;126;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-083;Penerimaan & Pencatatan Barang;2026-09-08 04:00:00;PT Mega Elektronik;Headset Gaming 7.1;Aksesoris Komputer;Rp 846.000;Rp 1.054.000;66;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-084;Penerimaan & Pencatatan Barang;2026-09-08 06:00:00;CV Bina Logistik;Monitor 4K 27 Inch;Elektronik;Rp 4.483.000;Rp 5.399.000;86;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-085;Penerimaan & Pencatatan Barang;2026-09-08 08:00:00;PT Indo Sarana;Keyboard Mekanikal;Aksesoris Komputer;Rp 642.000;Rp 787.000;44;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-086;Penerimaan & Pencatatan Barang;2026-09-08 10:00:00;PT Mandiri Utama;Smart TV 55 Inch;Elektronik;Rp 8.419.000;Rp 10.238.000;124;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-087;Penerimaan & Pencatatan Barang;2026-09-08 12:00:00;PT Indo Sarana;Webcam HD 1080p;Aksesoris Komputer;Rp 454.000;Rp 604.000;154;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-088;Penerimaan & Pencatatan Barang;2026-09-08 14:00:00;PT Mega Elektronik;NAS Storage 2-Bay;Peralatan Jaringan;Rp 4.500.000;Rp 5.180.000;95;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-089;Penerimaan & Pencatatan Barang;2026-09-08 16:00:00;CV Sentosa Perkasa;Blender High Power;Peralatan Rumah Tangga;Rp 972.000;Rp 1.273.000;234;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-090;Penerimaan & Pencatatan Barang;2026-09-08 18:00:00;PT Mega Elektronik;Headset Gaming 7.1;Aksesoris Komputer;Rp 757.000;Rp 944.000;104;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-091;Penerimaan & Pencatatan Barang;2026-09-08 20:00:00;PT Techindo Jaya;Webcam HD 1080p;Aksesoris Komputer;Rp 316.000;Rp 425.000;141;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-092;Penerimaan & Pencatatan Barang;2026-09-08 22:00:00;PT Mandiri Utama;Router Wi-Fi 6;Peralatan Jaringan;Rp 776.000;Rp 992.000;39;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-093;Penerimaan & Pencatatan Barang;2026-09-09 00:00:00;PT Mega Elektronik;Monitor 4K 27 Inch;Elektronik;Rp 5.090.000;Rp 6.186.000;121;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-094;Penerimaan & Pencatatan Barang;2026-09-09 02:00:00;PT Mega Elektronik;Robot Vacuum Cleaner;Peralatan Rumah Tangga;Rp 5.154.000;Rp 6.907.000;112;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-095;Penerimaan & Pencatatan Barang;2026-09-09 04:00:00;PT Mega Elektronik;Air Purifier HEPA;Peralatan Rumah Tangga;Rp 2.770.000;Rp 3.484.000;248;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-096;Penerimaan & Pencatatan Barang;2026-09-09 06:00:00;CV Sentosa Perkasa;Laptop Gaming Pro;Elektronik;Rp 24.653.000;Rp 28.503.000;68;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-097;Penerimaan & Pencatatan Barang;2026-09-09 08:00:00;PT Techindo Jaya;Switch Gigabit 16-Port;Peralatan Jaringan;Rp 950.000;Rp 1.116.000;176;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-098;Penerimaan & Pencatatan Barang;2026-09-09 10:00:00;CV Bina Logistik;Robot Vacuum Cleaner;Peralatan Rumah Tangga;Rp 5.216.000;Rp 6.383.000;160;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-099;Penerimaan & Pencatatan Barang;2026-09-09 12:00:00;PT Mega Elektronik;Headset Gaming 7.1;Aksesoris Komputer;Rp 413.000;Rp 522.000;242;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-100;Penerimaan & Pencatatan Barang;2026-09-09 14:00:00;PT Indo Sarana;Mesin Kopi Espresso;Peralatan Rumah Tangga;Rp 1.818.000;Rp 2.305.000;217;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-101;Penerimaan & Pencatatan Barang;2026-09-09 16:00:00;CV Bina Logistik;Monitor 4K 27 Inch;Elektronik;Rp 6.369.000;Rp 8.089.000;35;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-102;Penerimaan & Pencatatan Barang;2026-09-09 18:00:00;CV Bina Logistik;Proyektor Portable;Peralatan Kantor;Rp 3.996.000;Rp 5.124.000;22;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-103;Penerimaan & Pencatatan Barang;2026-09-09 20:00:00;PT Mega Elektronik;Smart TV 55 Inch;Elektronik;Rp 11.898.000;Rp 14.849.000;115;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-104;Penerimaan & Pencatatan Barang;2026-09-09 22:00:00;PT Mega Elektronik;Webcam HD 1080p;Aksesoris Komputer;Rp 342.000;Rp 443.000;171;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-105;Penerimaan & Pencatatan Barang;2026-09-10 00:00:00;CV Sentosa Perkasa;Microwave Digital;Peralatan Rumah Tangga;Rp 2.142.000;Rp 2.578.000;223;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-106;Penerimaan & Pencatatan Barang;2026-09-10 02:00:00;CV Bina Logistik;Paper Shredder Heavy-Duty;Peralatan Kantor;Rp 1.311.000;Rp 1.704.000;150;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-107;Penerimaan & Pencatatan Barang;2026-09-10 04:00:00;PT Mandiri Utama;Kursi Ergonomis;Peralatan Kantor;Rp 3.273.000;Rp 4.320.000;51;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-108;Penerimaan & Pencatatan Barang;2026-09-10 06:00:00;PT Indo Sarana;Printer Laser Multifungsi;Peralatan Kantor;Rp 3.227.000;Rp 3.891.000;157;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-109;Penerimaan & Pencatatan Barang;2026-09-10 08:00:00;CV Sentosa Perkasa;Router Wi-Fi 6;Peralatan Jaringan;Rp 1.683.000;Rp 2.254.000;26;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-110;Penerimaan & Pencatatan Barang;2026-09-10 10:00:00;PT Indo Sarana;Blender High Power;Peralatan Rumah Tangga;Rp 651.000;Rp 838.000;170;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-111;Penerimaan & Pencatatan Barang;2026-09-10 12:00:00;PT Indo Sarana;Air Purifier HEPA;Peralatan Rumah Tangga;Rp 1.395.000;Rp 1.686.000;108;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-112;Penerimaan & Pencatatan Barang;2026-09-10 14:00:00;PT Mega Elektronik;Proyektor Portable;Peralatan Kantor;Rp 3.747.000;Rp 4.663.000;140;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-113;Penerimaan & Pencatatan Barang;2026-09-10 16:00:00;PT Mega Elektronik;Access Point Enterprise;Peralatan Jaringan;Rp 1.937.000;Rp 2.499.000;74;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-114;Penerimaan & Pencatatan Barang;2026-09-10 18:00:00;CV Bina Logistik;Mouse Wireless RGB;Aksesoris Komputer;Rp 250.000;Rp 303.000;195;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-115;Penerimaan & Pencatatan Barang;2026-09-10 20:00:00;CV Bina Logistik;Keyboard Mekanikal;Aksesoris Komputer;Rp 1.174.000;Rp 1.463.000;190;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-116;Penerimaan & Pencatatan Barang;2026-09-10 22:00:00;PT Mega Elektronik;Smartphone Flagship;Elektronik;Rp 12.970.000;Rp 15.505.000;50;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-117;Penerimaan & Pencatatan Barang;2026-09-11 00:00:00;CV Bina Logistik;Switch Gigabit 16-Port;Peralatan Jaringan;Rp 987.000;Rp 1.144.000;18;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-118;Penerimaan & Pencatatan Barang;2026-09-11 02:00:00;PT Mega Elektronik;Webcam HD 1080p;Aksesoris Komputer;Rp 303.000;Rp 401.000;151;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-119;Penerimaan & Pencatatan Barang;2026-09-11 04:00:00;PT Mega Elektronik;Microwave Digital;Peralatan Rumah Tangga;Rp 1.614.000;Rp 1.915.000;18;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-120;Penerimaan & Pencatatan Barang;2026-09-11 06:00:00;PT Indo Sarana;Laptop Gaming Pro;Elektronik;Rp 18.722.000;Rp 23.371.000;152;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-121;Penerimaan & Pencatatan Barang;2026-09-11 08:00:00;CV Sentosa Perkasa;Keyboard Mekanikal;Aksesoris Komputer;Rp 990.000;Rp 1.326.000;26;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-122;Penerimaan & Pencatatan Barang;2026-09-11 10:00:00;CV Sentosa Perkasa;NAS Storage 2-Bay;Peralatan Jaringan;Rp 5.043.000;Rp 6.400.000;163;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-123;Penerimaan & Pencatatan Barang;2026-09-11 12:00:00;PT Mega Elektronik;Microwave Digital;Peralatan Rumah Tangga;Rp 1.523.000;Rp 2.013.000;114;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-124;Penerimaan & Pencatatan Barang;2026-09-11 14:00:00;PT Indo Sarana;Router Wi-Fi 6;Peralatan Jaringan;Rp 1.035.000;Rp 1.319.000;72;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-125;Penerimaan & Pencatatan Barang;2026-09-11 16:00:00;PT Techindo Jaya;Keyboard Mekanikal;Aksesoris Komputer;Rp 582.000;Rp 733.000;45;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-126;Penerimaan & Pencatatan Barang;2026-09-11 18:00:00;PT Mega Elektronik;Blender High Power;Peralatan Rumah Tangga;Rp 892.000;Rp 1.077.000;64;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-127;Penerimaan & Pencatatan Barang;2026-09-11 20:00:00;PT Indo Sarana;Air Purifier HEPA;Peralatan Rumah Tangga;Rp 2.641.000;Rp 3.160.000;72;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-128;Penerimaan & Pencatatan Barang;2026-09-11 22:00:00;PT Mega Elektronik;Air Purifier HEPA;Peralatan Rumah Tangga;Rp 2.342.000;Rp 2.798.000;43;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-129;Penerimaan & Pencatatan Barang;2026-09-12 00:00:00;PT Indo Sarana;Laptop Gaming Pro;Elektronik;Rp 14.783.000;Rp 19.343.000;157;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-130;Penerimaan & Pencatatan Barang;2026-09-12 02:00:00;PT Mandiri Utama;Air Purifier HEPA;Peralatan Rumah Tangga;Rp 2.182.000;Rp 2.809.000;184;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-131;Penerimaan & Pencatatan Barang;2026-09-12 04:00:00;PT Mandiri Utama;NAS Storage 2-Bay;Peralatan Jaringan;Rp 4.336.000;Rp 5.056.000;15;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-132;Penerimaan & Pencatatan Barang;2026-09-12 06:00:00;CV Bina Logistik;Access Point Enterprise;Peralatan Jaringan;Rp 1.254.000;Rp 1.465.000;177;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-133;Penerimaan & Pencatatan Barang;2026-09-12 08:00:00;PT Mandiri Utama;Proyektor Portable;Peralatan Kantor;Rp 2.368.000;Rp 3.084.000;49;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-134;Penerimaan & Pencatatan Barang;2026-09-12 10:00:00;PT Mandiri Utama;Meja Stand-Desk Auto;Peralatan Kantor;Rp 4.955.000;Rp 6.130.000;213;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-135;Penerimaan & Pencatatan Barang;2026-09-12 12:00:00;PT Techindo Jaya;Robot Vacuum Cleaner;Peralatan Rumah Tangga;Rp 3.712.000;Rp 4.516.000;176;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-136;Penerimaan & Pencatatan Barang;2026-09-12 14:00:00;PT Mandiri Utama;Paper Shredder Heavy-Duty;Peralatan Kantor;Rp 1.839.000;Rp 2.220.000;246;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-137;Penerimaan & Pencatatan Barang;2026-09-12 16:00:00;PT Mandiri Utama;Air Purifier HEPA;Peralatan Rumah Tangga;Rp 1.859.000;Rp 2.231.000;34;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-138;Penerimaan & Pencatatan Barang;2026-09-12 18:00:00;PT Mega Elektronik;NAS Storage 2-Bay;Peralatan Jaringan;Rp 4.233.000;Rp 4.913.000;137;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-139;Penerimaan & Pencatatan Barang;2026-09-12 20:00:00;PT Mega Elektronik;Air Purifier HEPA;Peralatan Rumah Tangga;Rp 1.626.000;Rp 1.956.000;38;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-140;Penerimaan & Pencatatan Barang;2026-09-12 22:00:00;CV Sentosa Perkasa;Air Purifier HEPA;Peralatan Rumah Tangga;Rp 1.260.000;Rp 1.694.000;160;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-141;Penerimaan & Pencatatan Barang;2026-09-13 00:00:00;CV Sentosa Perkasa;Proyektor Portable;Peralatan Kantor;Rp 2.257.000;Rp 2.844.000;28;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-142;Penerimaan & Pencatatan Barang;2026-09-13 02:00:00;PT Indo Sarana;Air Purifier HEPA;Peralatan Rumah Tangga;Rp 2.558.000;Rp 3.367.000;132;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-143;Penerimaan & Pencatatan Barang;2026-09-13 04:00:00;CV Sentosa Perkasa;Access Point Enterprise;Peralatan Jaringan;Rp 2.071.000;Rp 2.727.000;125;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-144;Penerimaan & Pencatatan Barang;2026-09-13 06:00:00;CV Bina Logistik;Switch Gigabit 16-Port;Peralatan Jaringan;Rp 1.102.000;Rp 1.309.000;158;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-145;Penerimaan & Pencatatan Barang;2026-09-13 08:00:00;PT Mega Elektronik;Monitor 4K 27 Inch;Elektronik;Rp 6.740.000;Rp 8.815.000;111;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-146;Penerimaan & Pencatatan Barang;2026-09-13 10:00:00;CV Bina Logistik;Monitor 4K 27 Inch;Elektronik;Rp 6.545.000;Rp 7.917.000;155;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-147;Penerimaan & Pencatatan Barang;2026-09-13 12:00:00;CV Bina Logistik;Webcam HD 1080p;Aksesoris Komputer;Rp 532.000;Rp 663.000;90;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-148;Penerimaan & Pencatatan Barang;2026-09-13 14:00:00;CV Sentosa Perkasa;Robot Vacuum Cleaner;Peralatan Rumah Tangga;Rp 5.647.000;Rp 6.707.000;183;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-149;Penerimaan & Pencatatan Barang;2026-09-13 16:00:00;PT Indo Sarana;Webcam HD 1080p;Aksesoris Komputer;Rp 272.000;Rp 330.000;126;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-150;Penerimaan & Pencatatan Barang;2026-09-13 18:00:00;CV Bina Logistik;Mesin Kopi Espresso;Peralatan Rumah Tangga;Rp 3.577.000;Rp 4.803.000;37;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-151;Penerimaan & Pencatatan Barang;2026-09-13 20:00:00;PT Techindo Jaya;Smart TV 55 Inch;Elektronik;Rp 5.836.000;Rp 7.325.000;121;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-152;Penerimaan & Pencatatan Barang;2026-09-13 22:00:00;PT Mega Elektronik;Mesin Kopi Espresso;Peralatan Rumah Tangga;Rp 1.813.000;Rp 2.255.000;72;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-153;Penerimaan & Pencatatan Barang;2026-09-14 00:00:00;PT Mega Elektronik;Monitor 4K 27 Inch;Elektronik;Rp 6.328.000;Rp 8.364.000;102;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-154;Penerimaan & Pencatatan Barang;2026-09-14 02:00:00;PT Mega Elektronik;Router Wi-Fi 6;Peralatan Jaringan;Rp 743.000;Rp 889.000;180;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-155;Penerimaan & Pencatatan Barang;2026-09-14 04:00:00;PT Techindo Jaya;Smart TV 55 Inch;Elektronik;Rp 5.825.000;Rp 7.584.000;185;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-156;Penerimaan & Pencatatan Barang;2026-09-14 06:00:00;PT Techindo Jaya;Headset Gaming 7.1;Aksesoris Komputer;Rp 330.000;Rp 382.000;208;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-157;Penerimaan & Pencatatan Barang;2026-09-14 08:00:00;PT Mandiri Utama;Printer Laser Multifungsi;Peralatan Kantor;Rp 3.606.000;Rp 4.251.000;140;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-158;Penerimaan & Pencatatan Barang;2026-09-14 10:00:00;CV Bina Logistik;Keyboard Mekanikal;Aksesoris Komputer;Rp 482.000;Rp 613.000;102;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-159;Penerimaan & Pencatatan Barang;2026-09-14 12:00:00;PT Mega Elektronik;Blender High Power;Peralatan Rumah Tangga;Rp 550.000;Rp 658.000;168;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-160;Penerimaan & Pencatatan Barang;2026-09-14 14:00:00;CV Bina Logistik;Kursi Ergonomis;Peralatan Kantor;Rp 3.151.000;Rp 4.191.000;178;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-161;Penerimaan & Pencatatan Barang;2026-09-14 16:00:00;PT Indo Sarana;Smart TV 55 Inch;Elektronik;Rp 7.898.000;Rp 10.642.000;81;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-162;Penerimaan & Pencatatan Barang;2026-09-14 18:00:00;PT Mandiri Utama;Paper Shredder Heavy-Duty;Peralatan Kantor;Rp 1.433.000;Rp 1.705.000;103;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-163;Penerimaan & Pencatatan Barang;2026-09-14 20:00:00;PT Indo Sarana;Webcam HD 1080p;Aksesoris Komputer;Rp 549.000;Rp 670.000;80;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-164;Penerimaan & Pencatatan Barang;2026-09-14 22:00:00;PT Indo Sarana;Smart TV 55 Inch;Elektronik;Rp 7.302.000;Rp 8.409.000;226;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-165;Penerimaan & Pencatatan Barang;2026-09-15 00:00:00;CV Bina Logistik;NAS Storage 2-Bay;Peralatan Jaringan;Rp 3.700.000;Rp 4.829.000;63;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-166;Penerimaan & Pencatatan Barang;2026-09-15 02:00:00;PT Indo Sarana;Keyboard Mekanikal;Aksesoris Komputer;Rp 1.051.000;Rp 1.261.000;198;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-167;Penerimaan & Pencatatan Barang;2026-09-15 04:00:00;CV Bina Logistik;Laptop Gaming Pro;Elektronik;Rp 17.183.000;Rp 22.470.000;13;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-168;Penerimaan & Pencatatan Barang;2026-09-15 06:00:00;CV Sentosa Perkasa;Mouse Wireless RGB;Aksesoris Komputer;Rp 304.000;Rp 369.000;111;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-169;Penerimaan & Pencatatan Barang;2026-09-15 08:00:00;PT Mega Elektronik;External SSD 1TB;Aksesoris Komputer;Rp 1.483.000;Rp 1.862.000;238;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-170;Penerimaan & Pencatatan Barang;2026-09-15 10:00:00;PT Techindo Jaya;Paper Shredder Heavy-Duty;Peralatan Kantor;Rp 1.418.000;Rp 1.842.000;91;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-171;Penerimaan & Pencatatan Barang;2026-09-15 12:00:00;PT Indo Sarana;Smartphone Flagship;Elektronik;Rp 11.785.000;Rp 15.580.000;190;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-172;Penerimaan & Pencatatan Barang;2026-09-15 14:00:00;PT Mega Elektronik;Access Point Enterprise;Peralatan Jaringan;Rp 1.389.000;Rp 1.817.000;8;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-173;Penerimaan & Pencatatan Barang;2026-09-15 16:00:00;CV Bina Logistik;Robot Vacuum Cleaner;Peralatan Rumah Tangga;Rp 4.822.000;Rp 6.267.000;72;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-174;Penerimaan & Pencatatan Barang;2026-09-15 18:00:00;CV Bina Logistik;Kursi Ergonomis;Peralatan Kantor;Rp 2.180.000;Rp 2.712.000;163;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-175;Penerimaan & Pencatatan Barang;2026-09-15 20:00:00;PT Mandiri Utama;Switch Gigabit 16-Port;Peralatan Jaringan;Rp 1.379.000;Rp 1.603.000;215;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-176;Penerimaan & Pencatatan Barang;2026-09-15 22:00:00;PT Mega Elektronik;Air Purifier HEPA;Peralatan Rumah Tangga;Rp 1.493.000;Rp 1.730.000;14;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-177;Penerimaan & Pencatatan Barang;2026-09-16 00:00:00;PT Mandiri Utama;Laptop Gaming Pro;Elektronik;Rp 15.939.000;Rp 21.158.000;39;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-178;Penerimaan & Pencatatan Barang;2026-09-16 02:00:00;CV Sentosa Perkasa;Proyektor Portable;Peralatan Kantor;Rp 3.957.000;Rp 5.015.000;191;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-179;Penerimaan & Pencatatan Barang;2026-09-16 04:00:00;PT Mega Elektronik;Smart TV 55 Inch;Elektronik;Rp 10.164.000;Rp 12.518.000;248;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-180;Penerimaan & Pencatatan Barang;2026-09-16 06:00:00;PT Mega Elektronik;Meja Stand-Desk Auto;Peralatan Kantor;Rp 4.359.000;Rp 5.400.000;65;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-181;Penerimaan & Pencatatan Barang;2026-09-16 08:00:00;PT Mega Elektronik;Proyektor Portable;Peralatan Kantor;Rp 4.904.000;Rp 5.991.000;106;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-182;Penerimaan & Pencatatan Barang;2026-09-16 10:00:00;PT Indo Sarana;Smart TV 55 Inch;Elektronik;Rp 5.769.000;Rp 7.399.000;169;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-183;Penerimaan & Pencatatan Barang;2026-09-16 12:00:00;CV Bina Logistik;Monitor 4K 27 Inch;Elektronik;Rp 4.521.000;Rp 6.093.000;206;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-184;Penerimaan & Pencatatan Barang;2026-09-16 14:00:00;CV Sentosa Perkasa;Tablet Grafis;Elektronik;Rp 3.368.000;Rp 4.268.000;213;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-185;Penerimaan & Pencatatan Barang;2026-09-16 16:00:00;CV Sentosa Perkasa;External SSD 1TB;Aksesoris Komputer;Rp 1.102.000;Rp 1.328.000;42;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-186;Penerimaan & Pencatatan Barang;2026-09-16 18:00:00;CV Sentosa Perkasa;Mouse Wireless RGB;Aksesoris Komputer;Rp 163.000;Rp 191.000;96;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-187;Penerimaan & Pencatatan Barang;2026-09-16 20:00:00;PT Mandiri Utama;Smartphone Flagship;Elektronik;Rp 12.452.000;Rp 14.450.000;194;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-188;Penerimaan & Pencatatan Barang;2026-09-16 22:00:00;CV Bina Logistik;Smart TV 55 Inch;Elektronik;Rp 8.760.000;Rp 11.437.000;136;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-189;Penerimaan & Pencatatan Barang;2026-09-17 00:00:00;PT Indo Sarana;Blender High Power;Peralatan Rumah Tangga;Rp 632.000;Rp 846.000;16;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-190;Penerimaan & Pencatatan Barang;2026-09-17 02:00:00;PT Mandiri Utama;Air Purifier HEPA;Peralatan Rumah Tangga;Rp 1.327.000;Rp 1.791.000;221;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-191;Penerimaan & Pencatatan Barang;2026-09-17 04:00:00;PT Techindo Jaya;Smart TV 55 Inch;Elektronik;Rp 10.976.000;Rp 14.619.000;23;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-192;Penerimaan & Pencatatan Barang;2026-09-17 06:00:00;PT Indo Sarana;Switch Gigabit 16-Port;Peralatan Jaringan;Rp 768.000;Rp 902.000;164;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-193;Penerimaan & Pencatatan Barang;2026-09-17 08:00:00;CV Bina Logistik;Blender High Power;Peralatan Rumah Tangga;Rp 956.000;Rp 1.155.000;134;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-194;Penerimaan & Pencatatan Barang;2026-09-17 10:00:00;CV Bina Logistik;Laptop Gaming Pro;Elektronik;Rp 22.984.000;Rp 29.423.000;201;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-195;Penerimaan & Pencatatan Barang;2026-09-17 12:00:00;PT Mandiri Utama;Microwave Digital;Peralatan Rumah Tangga;Rp 1.379.000;Rp 1.699.000;216;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-196;Penerimaan & Pencatatan Barang;2026-09-17 14:00:00;PT Mega Elektronik;Air Purifier HEPA;Peralatan Rumah Tangga;Rp 1.855.000;Rp 2.291.000;175;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-197;Penerimaan & Pencatatan Barang;2026-09-17 16:00:00;PT Techindo Jaya;Webcam HD 1080p;Aksesoris Komputer;Rp 285.000;Rp 332.000;26;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-198;Penerimaan & Pencatatan Barang;2026-09-17 18:00:00;CV Bina Logistik;Monitor 4K 27 Inch;Elektronik;Rp 6.904.000;Rp 8.119.000;20;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-199;Penerimaan & Pencatatan Barang;2026-09-17 20:00:00;PT Mandiri Utama;Smart TV 55 Inch;Elektronik;Rp 7.966.000;Rp 10.552.000;245;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-200;Penerimaan & Pencatatan Barang;2026-09-17 22:00:00;CV Bina Logistik;Proyektor Portable;Peralatan Kantor;Rp 3.510.000;Rp 4.283.000;152;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-201;Penerimaan & Pencatatan Barang;2026-09-18 00:00:00;CV Bina Logistik;Webcam HD 1080p;Aksesoris Komputer;Rp 367.000;Rp 484.000;94;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-202;Penerimaan & Pencatatan Barang;2026-09-18 02:00:00;CV Bina Logistik;Monitor 4K 27 Inch;Elektronik;Rp 5.907.000;Rp 7.060.000;114;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-203;Penerimaan & Pencatatan Barang;2026-09-18 04:00:00;PT Mega Elektronik;Access Point Enterprise;Peralatan Jaringan;Rp 1.260.000;Rp 1.494.000;184;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-204;Penerimaan & Pencatatan Barang;2026-09-18 06:00:00;PT Indo Sarana;Kursi Ergonomis;Peralatan Kantor;Rp 1.960.000;Rp 2.594.000;149;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-205;Penerimaan & Pencatatan Barang;2026-09-18 08:00:00;CV Sentosa Perkasa;Smartphone Flagship;Elektronik;Rp 8.514.000;Rp 9.947.000;140;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-206;Penerimaan & Pencatatan Barang;2026-09-18 10:00:00;PT Indo Sarana;Microwave Digital;Peralatan Rumah Tangga;Rp 1.614.000;Rp 1.906.000;84;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-207;Penerimaan & Pencatatan Barang;2026-09-18 12:00:00;CV Bina Logistik;Router Wi-Fi 6;Peralatan Jaringan;Rp 710.000;Rp 838.000;198;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-208;Penerimaan & Pencatatan Barang;2026-09-18 14:00:00;CV Bina Logistik;Monitor 4K 27 Inch;Elektronik;Rp 5.358.000;Rp 6.871.000;129;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-209;Penerimaan & Pencatatan Barang;2026-09-18 16:00:00;PT Mega Elektronik;Robot Vacuum Cleaner;Peralatan Rumah Tangga;Rp 2.904.000;Rp 3.778.000;34;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-210;Penerimaan & Pencatatan Barang;2026-09-18 18:00:00;CV Bina Logistik;Monitor 4K 27 Inch;Elektronik;Rp 6.344.000;Rp 8.156.000;129;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-211;Penerimaan & Pencatatan Barang;2026-09-18 20:00:00;PT Techindo Jaya;Smartphone Flagship;Elektronik;Rp 14.631.000;Rp 19.706.000;19;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-212;Penerimaan & Pencatatan Barang;2026-09-18 22:00:00;PT Mega Elektronik;Meja Stand-Desk Auto;Peralatan Kantor;Rp 5.718.000;Rp 6.732.000;70;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-213;Penerimaan & Pencatatan Barang;2026-09-19 00:00:00;CV Sentosa Perkasa;Laptop Gaming Pro;Elektronik;Rp 20.344.000;Rp 26.435.000;49;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-214;Penerimaan & Pencatatan Barang;2026-09-19 02:00:00;PT Mega Elektronik;Switch Gigabit 16-Port;Peralatan Jaringan;Rp 1.224.000;Rp 1.544.000;176;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-215;Penerimaan & Pencatatan Barang;2026-09-19 04:00:00;PT Techindo Jaya;Air Purifier HEPA;Peralatan Rumah Tangga;Rp 2.114.000;Rp 2.439.000;240;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-216;Penerimaan & Pencatatan Barang;2026-09-19 06:00:00;PT Mandiri Utama;NAS Storage 2-Bay;Peralatan Jaringan;Rp 4.905.000;Rp 6.037.000;168;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-217;Penerimaan & Pencatatan Barang;2026-09-19 08:00:00;CV Bina Logistik;Smart TV 55 Inch;Elektronik;Rp 5.174.000;Rp 6.949.000;48;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-218;Penerimaan & Pencatatan Barang;2026-09-19 10:00:00;PT Mandiri Utama;Kursi Ergonomis;Peralatan Kantor;Rp 3.031.000;Rp 3.997.000;67;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-219;Penerimaan & Pencatatan Barang;2026-09-19 12:00:00;PT Mega Elektronik;Router Wi-Fi 6;Peralatan Jaringan;Rp 1.429.000;Rp 1.892.000;195;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-220;Penerimaan & Pencatatan Barang;2026-09-19 14:00:00;CV Bina Logistik;Meja Stand-Desk Auto;Peralatan Kantor;Rp 2.820.000;Rp 3.530.000;34;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-221;Penerimaan & Pencatatan Barang;2026-09-19 16:00:00;PT Mega Elektronik;Printer Laser Multifungsi;Peralatan Kantor;Rp 2.419.000;Rp 2.896.000;42;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-222;Penerimaan & Pencatatan Barang;2026-09-19 18:00:00;PT Techindo Jaya;External SSD 1TB;Aksesoris Komputer;Rp 1.260.000;Rp 1.640.000;172;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-223;Penerimaan & Pencatatan Barang;2026-09-19 20:00:00;PT Indo Sarana;Microwave Digital;Peralatan Rumah Tangga;Rp 2.082.000;Rp 2.710.000;119;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-224;Penerimaan & Pencatatan Barang;2026-09-19 22:00:00;PT Indo Sarana;Meja Stand-Desk Auto;Peralatan Kantor;Rp 4.344.000;Rp 5.054.000;118;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-225;Penerimaan & Pencatatan Barang;2026-09-20 00:00:00;PT Mega Elektronik;Proyektor Portable;Peralatan Kantor;Rp 2.435.000;Rp 2.971.000;23;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-226;Penerimaan & Pencatatan Barang;2026-09-20 02:00:00;PT Techindo Jaya;Air Purifier HEPA;Peralatan Rumah Tangga;Rp 1.319.000;Rp 1.614.000;78;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-227;Penerimaan & Pencatatan Barang;2026-09-20 04:00:00;PT Indo Sarana;NAS Storage 2-Bay;Peralatan Jaringan;Rp 4.440.000;Rp 5.621.000;249;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-228;Penerimaan & Pencatatan Barang;2026-09-20 06:00:00;PT Mandiri Utama;Blender High Power;Peralatan Rumah Tangga;Rp 1.083.000;Rp 1.286.000;159;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-229;Penerimaan & Pencatatan Barang;2026-09-20 08:00:00;PT Mega Elektronik;Smart TV 55 Inch;Elektronik;Rp 5.868.000;Rp 7.699.000;219;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-230;Penerimaan & Pencatatan Barang;2026-09-20 10:00:00;PT Mandiri Utama;Switch Gigabit 16-Port;Peralatan Jaringan;Rp 741.000;Rp 888.000;117;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-231;Penerimaan & Pencatatan Barang;2026-09-20 12:00:00;PT Mega Elektronik;Printer Laser Multifungsi;Peralatan Kantor;Rp 2.986.000;Rp 3.665.000;203;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-232;Penerimaan & Pencatatan Barang;2026-09-20 14:00:00;PT Mandiri Utama;Kursi Ergonomis;Peralatan Kantor;Rp 2.582.000;Rp 3.018.000;178;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-233;Penerimaan & Pencatatan Barang;2026-09-20 16:00:00;PT Indo Sarana;Proyektor Portable;Peralatan Kantor;Rp 2.830.000;Rp 3.443.000;154;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-234;Penerimaan & Pencatatan Barang;2026-09-20 18:00:00;PT Techindo Jaya;Printer Laser Multifungsi;Peralatan Kantor;Rp 3.443.000;Rp 4.048.000;186;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-235;Penerimaan & Pencatatan Barang;2026-09-20 20:00:00;CV Sentosa Perkasa;NAS Storage 2-Bay;Peralatan Jaringan;Rp 5.199.000;Rp 6.802.000;213;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-236;Penerimaan & Pencatatan Barang;2026-09-20 22:00:00;CV Sentosa Perkasa;Blender High Power;Peralatan Rumah Tangga;Rp 779.000;Rp 898.000;84;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-237;Penerimaan & Pencatatan Barang;2026-09-21 00:00:00;CV Sentosa Perkasa;Paper Shredder Heavy-Duty;Peralatan Kantor;Rp 1.202.000;Rp 1.436.000;40;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-238;Penerimaan & Pencatatan Barang;2026-09-21 02:00:00;PT Indo Sarana;Kursi Ergonomis;Peralatan Kantor;Rp 3.329.000;Rp 4.341.000;218;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-239;Penerimaan & Pencatatan Barang;2026-09-21 04:00:00;CV Sentosa Perkasa;Proyektor Portable;Peralatan Kantor;Rp 2.749.000;Rp 3.489.000;44;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-240;Penerimaan & Pencatatan Barang;2026-09-21 06:00:00;PT Mega Elektronik;Switch Gigabit 16-Port;Peralatan Jaringan;Rp 1.456.000;Rp 1.801.000;110;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-241;Penerimaan & Pencatatan Barang;2026-09-21 08:00:00;PT Mandiri Utama;Blender High Power;Peralatan Rumah Tangga;Rp 698.000;Rp 907.000;205;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-242;Penerimaan & Pencatatan Barang;2026-09-21 10:00:00;PT Mandiri Utama;Switch Gigabit 16-Port;Peralatan Jaringan;Rp 1.024.000;Rp 1.375.000;205;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-243;Penerimaan & Pencatatan Barang;2026-09-21 12:00:00;PT Mandiri Utama;Proyektor Portable;Peralatan Kantor;Rp 4.047.000;Rp 5.027.000;77;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-244;Penerimaan & Pencatatan Barang;2026-09-21 14:00:00;PT Techindo Jaya;Keyboard Mekanikal;Aksesoris Komputer;Rp 1.034.000;Rp 1.217.000;69;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-245;Penerimaan & Pencatatan Barang;2026-09-21 16:00:00;PT Techindo Jaya;Proyektor Portable;Peralatan Kantor;Rp 2.630.000;Rp 3.398.000;137;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-246;Penerimaan & Pencatatan Barang;2026-09-21 18:00:00;CV Sentosa Perkasa;Smartphone Flagship;Elektronik;Rp 12.576.000;Rp 15.592.000;136;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-247;Penerimaan & Pencatatan Barang;2026-09-21 20:00:00;PT Techindo Jaya;Smartphone Flagship;Elektronik;Rp 15.568.000;Rp 20.657.000;243;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-248;Penerimaan & Pencatatan Barang;2026-09-21 22:00:00;PT Techindo Jaya;Smart TV 55 Inch;Elektronik;Rp 9.211.000;Rp 11.281.000;103;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-249;Penerimaan & Pencatatan Barang;2026-09-22 00:00:00;PT Indo Sarana;Mouse Wireless RGB;Aksesoris Komputer;Rp 317.000;Rp 423.000;219;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-250;Penerimaan & Pencatatan Barang;2026-09-22 02:00:00;PT Mandiri Utama;Keyboard Mekanikal;Aksesoris Komputer;Rp 440.000;Rp 531.000;217;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-251;Penerimaan & Pencatatan Barang;2026-09-22 04:00:00;PT Techindo Jaya;Microwave Digital;Peralatan Rumah Tangga;Rp 2.190.000;Rp 2.520.000;25;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-252;Penerimaan & Pencatatan Barang;2026-09-22 06:00:00;CV Bina Logistik;Keyboard Mekanikal;Aksesoris Komputer;Rp 975.000;Rp 1.304.000;160;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-253;Penerimaan & Pencatatan Barang;2026-09-22 08:00:00;CV Sentosa Perkasa;Monitor 4K 27 Inch;Elektronik;Rp 4.496.000;Rp 5.441.000;17;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-254;Penerimaan & Pencatatan Barang;2026-09-22 10:00:00;PT Mandiri Utama;NAS Storage 2-Bay;Peralatan Jaringan;Rp 2.763.000;Rp 3.238.000;236;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-255;Penerimaan & Pencatatan Barang;2026-09-22 12:00:00;PT Techindo Jaya;Switch Gigabit 16-Port;Peralatan Jaringan;Rp 1.453.000;Rp 1.712.000;114;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-256;Penerimaan & Pencatatan Barang;2026-09-22 14:00:00;PT Techindo Jaya;External SSD 1TB;Aksesoris Komputer;Rp 1.536.000;Rp 1.823.000;176;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-257;Penerimaan & Pencatatan Barang;2026-09-22 16:00:00;CV Bina Logistik;Tablet Grafis;Elektronik;Rp 4.782.000;Rp 5.984.000;134;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-258;Penerimaan & Pencatatan Barang;2026-09-22 18:00:00;PT Mega Elektronik;Microwave Digital;Peralatan Rumah Tangga;Rp 991.000;Rp 1.265.000;100;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-259;Penerimaan & Pencatatan Barang;2026-09-22 20:00:00;PT Indo Sarana;Kursi Ergonomis;Peralatan Kantor;Rp 2.646.000;Rp 3.170.000;173;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-260;Penerimaan & Pencatatan Barang;2026-09-22 22:00:00;PT Mega Elektronik;Access Point Enterprise;Peralatan Jaringan;Rp 1.479.000;Rp 1.713.000;144;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-261;Penerimaan & Pencatatan Barang;2026-09-23 00:00:00;PT Indo Sarana;Microwave Digital;Peralatan Rumah Tangga;Rp 1.282.000;Rp 1.682.000;21;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-262;Penerimaan & Pencatatan Barang;2026-09-23 02:00:00;PT Techindo Jaya;Monitor 4K 27 Inch;Elektronik;Rp 4.345.000;Rp 5.034.000;56;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-263;Penerimaan & Pencatatan Barang;2026-09-23 04:00:00;PT Mandiri Utama;Proyektor Portable;Peralatan Kantor;Rp 3.870.000;Rp 5.216.000;144;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-264;Penerimaan & Pencatatan Barang;2026-09-23 06:00:00;PT Techindo Jaya;Smartphone Flagship;Elektronik;Rp 12.800.000;Rp 15.633.000;204;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-265;Penerimaan & Pencatatan Barang;2026-09-23 08:00:00;PT Indo Sarana;Kursi Ergonomis;Peralatan Kantor;Rp 2.743.000;Rp 3.394.000;107;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-266;Penerimaan & Pencatatan Barang;2026-09-23 10:00:00;PT Mega Elektronik;Robot Vacuum Cleaner;Peralatan Rumah Tangga;Rp 2.783.000;Rp 3.476.000;132;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-267;Penerimaan & Pencatatan Barang;2026-09-23 12:00:00;CV Sentosa Perkasa;Smart TV 55 Inch;Elektronik;Rp 5.662.000;Rp 6.998.000;215;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-268;Penerimaan & Pencatatan Barang;2026-09-23 14:00:00;PT Mega Elektronik;Kursi Ergonomis;Peralatan Kantor;Rp 1.535.000;Rp 1.865.000;80;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-269;Penerimaan & Pencatatan Barang;2026-09-23 16:00:00;PT Mandiri Utama;NAS Storage 2-Bay;Peralatan Jaringan;Rp 3.198.000;Rp 4.118.000;94;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-270;Penerimaan & Pencatatan Barang;2026-09-23 18:00:00;PT Techindo Jaya;Proyektor Portable;Peralatan Kantor;Rp 4.024.000;Rp 4.848.000;207;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-271;Penerimaan & Pencatatan Barang;2026-09-23 20:00:00;CV Sentosa Perkasa;Robot Vacuum Cleaner;Peralatan Rumah Tangga;Rp 4.152.000;Rp 5.440.000;178;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-272;Penerimaan & Pencatatan Barang;2026-09-23 22:00:00;CV Sentosa Perkasa;External SSD 1TB;Aksesoris Komputer;Rp 1.559.000;Rp 1.803.000;22;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-273;Penerimaan & Pencatatan Barang;2026-09-24 00:00:00;PT Indo Sarana;Paper Shredder Heavy-Duty;Peralatan Kantor;Rp 1.989.000;Rp 2.300.000;44;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-274;Penerimaan & Pencatatan Barang;2026-09-24 02:00:00;CV Sentosa Perkasa;Printer Laser Multifungsi;Peralatan Kantor;Rp 3.662.000;Rp 4.770.000;151;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-275;Penerimaan & Pencatatan Barang;2026-09-24 04:00:00;PT Techindo Jaya;Robot Vacuum Cleaner;Peralatan Rumah Tangga;Rp 4.724.000;Rp 5.695.000;250;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-276;Penerimaan & Pencatatan Barang;2026-09-24 06:00:00;PT Techindo Jaya;Webcam HD 1080p;Aksesoris Komputer;Rp 521.000;Rp 639.000;148;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-277;Penerimaan & Pencatatan Barang;2026-09-24 08:00:00;PT Indo Sarana;Paper Shredder Heavy-Duty;Peralatan Kantor;Rp 1.249.000;Rp 1.685.000;78;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-278;Penerimaan & Pencatatan Barang;2026-09-24 10:00:00;CV Sentosa Perkasa;Mouse Wireless RGB;Aksesoris Komputer;Rp 221.000;Rp 291.000;120;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-279;Penerimaan & Pencatatan Barang;2026-09-24 12:00:00;CV Bina Logistik;Monitor 4K 27 Inch;Elektronik;Rp 6.301.000;Rp 7.683.000;21;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-280;Penerimaan & Pencatatan Barang;2026-09-24 14:00:00;PT Indo Sarana;Meja Stand-Desk Auto;Peralatan Kantor;Rp 5.485.000;Rp 7.086.000;184;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-281;Penerimaan & Pencatatan Barang;2026-09-24 16:00:00;CV Sentosa Perkasa;Proyektor Portable;Peralatan Kantor;Rp 3.140.000;Rp 3.687.000;56;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-282;Penerimaan & Pencatatan Barang;2026-09-24 18:00:00;PT Mandiri Utama;Air Purifier HEPA;Peralatan Rumah Tangga;Rp 1.956.000;Rp 2.466.000;99;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-283;Penerimaan & Pencatatan Barang;2026-09-24 20:00:00;PT Indo Sarana;Router Wi-Fi 6;Peralatan Jaringan;Rp 737.000;Rp 893.000;188;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-284;Penerimaan & Pencatatan Barang;2026-09-24 22:00:00;CV Sentosa Perkasa;NAS Storage 2-Bay;Peralatan Jaringan;Rp 4.217.000;Rp 5.543.000;23;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-285;Penerimaan & Pencatatan Barang;2026-09-25 00:00:00;CV Sentosa Perkasa;Smart TV 55 Inch;Elektronik;Rp 8.907.000;Rp 11.454.000;93;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-286;Penerimaan & Pencatatan Barang;2026-09-25 02:00:00;PT Techindo Jaya;Webcam HD 1080p;Aksesoris Komputer;Rp 513.000;Rp 683.000;19;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-287;Penerimaan & Pencatatan Barang;2026-09-25 04:00:00;CV Sentosa Perkasa;Meja Stand-Desk Auto;Peralatan Kantor;Rp 3.179.000;Rp 3.860.000;186;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-288;Penerimaan & Pencatatan Barang;2026-09-25 06:00:00;PT Indo Sarana;Access Point Enterprise;Peralatan Jaringan;Rp 2.974.000;Rp 3.467.000;55;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-289;Penerimaan & Pencatatan Barang;2026-09-25 08:00:00;CV Bina Logistik;Headset Gaming 7.1;Aksesoris Komputer;Rp 397.000;Rp 496.000;48;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-290;Penerimaan & Pencatatan Barang;2026-09-25 10:00:00;CV Bina Logistik;External SSD 1TB;Aksesoris Komputer;Rp 1.734.000;Rp 2.111.000;241;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-291;Penerimaan & Pencatatan Barang;2026-09-25 12:00:00;CV Bina Logistik;Laptop Gaming Pro;Elektronik;Rp 12.762.000;Rp 17.097.000;202;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-292;Penerimaan & Pencatatan Barang;2026-09-25 14:00:00;PT Mandiri Utama;External SSD 1TB;Aksesoris Komputer;Rp 1.536.000;Rp 1.956.000;12;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-293;Penerimaan & Pencatatan Barang;2026-09-25 16:00:00;PT Mandiri Utama;Paper Shredder Heavy-Duty;Peralatan Kantor;Rp 1.313.000;Rp 1.721.000;180;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-294;Penerimaan & Pencatatan Barang;2026-09-25 18:00:00;PT Mandiri Utama;Air Purifier HEPA;Peralatan Rumah Tangga;Rp 2.644.000;Rp 3.072.000;117;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-295;Penerimaan & Pencatatan Barang;2026-09-25 20:00:00;PT Indo Sarana;Mesin Kopi Espresso;Peralatan Rumah Tangga;Rp 2.926.000;Rp 3.719.000;85;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-296;Penerimaan & Pencatatan Barang;2026-09-25 22:00:00;CV Bina Logistik;Paper Shredder Heavy-Duty;Peralatan Kantor;Rp 1.074.000;Rp 1.398.000;136;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-297;Penerimaan & Pencatatan Barang;2026-09-26 00:00:00;CV Sentosa Perkasa;Meja Stand-Desk Auto;Peralatan Kantor;Rp 4.456.000;Rp 5.233.000;120;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-298;Penerimaan & Pencatatan Barang;2026-09-26 02:00:00;CV Bina Logistik;Laptop Gaming Pro;Elektronik;Rp 16.868.000;Rp 22.587.000;226;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-299;Penerimaan & Pencatatan Barang;2026-09-26 04:00:00;PT Mega Elektronik;Keyboard Mekanikal;Aksesoris Komputer;Rp 743.000;Rp 993.000;189;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-300;Penerimaan & Pencatatan Barang;2026-09-26 06:00:00;PT Mega Elektronik;Webcam HD 1080p;Aksesoris Komputer;Rp 519.000;Rp 645.000;230;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-301;Penerimaan & Pencatatan Barang;2026-09-26 08:00:00;CV Sentosa Perkasa;Laptop Gaming Pro;Elektronik;Rp 18.597.000;Rp 23.266.000;66;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-302;Penerimaan & Pencatatan Barang;2026-09-26 10:00:00;PT Indo Sarana;Laptop Gaming Pro;Elektronik;Rp 16.720.000;Rp 20.882.000;230;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-303;Penerimaan & Pencatatan Barang;2026-09-26 12:00:00;CV Sentosa Perkasa;Proyektor Portable;Peralatan Kantor;Rp 2.234.000;Rp 2.947.000;115;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-304;Penerimaan & Pencatatan Barang;2026-09-26 14:00:00;CV Bina Logistik;Paper Shredder Heavy-Duty;Peralatan Kantor;Rp 1.567.000;Rp 1.816.000;18;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-305;Penerimaan & Pencatatan Barang;2026-09-26 16:00:00;PT Mandiri Utama;Proyektor Portable;Peralatan Kantor;Rp 3.410.000;Rp 3.971.000;134;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-306;Penerimaan & Pencatatan Barang;2026-09-26 18:00:00;PT Mega Elektronik;Router Wi-Fi 6;Peralatan Jaringan;Rp 869.000;Rp 1.168.000;105;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-307;Penerimaan & Pencatatan Barang;2026-09-26 20:00:00;CV Bina Logistik;Access Point Enterprise;Peralatan Jaringan;Rp 2.783.000;Rp 3.280.000;159;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-308;Penerimaan & Pencatatan Barang;2026-09-26 22:00:00;PT Mega Elektronik;Router Wi-Fi 6;Peralatan Jaringan;Rp 695.000;Rp 804.000;187;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-309;Penerimaan & Pencatatan Barang;2026-09-27 00:00:00;CV Sentosa Perkasa;NAS Storage 2-Bay;Peralatan Jaringan;Rp 3.124.000;Rp 3.971.000;136;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-310;Penerimaan & Pencatatan Barang;2026-09-27 02:00:00;PT Indo Sarana;Access Point Enterprise;Peralatan Jaringan;Rp 1.540.000;Rp 1.892.000;162;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-311;Penerimaan & Pencatatan Barang;2026-09-27 04:00:00;PT Mandiri Utama;Access Point Enterprise;Peralatan Jaringan;Rp 2.263.000;Rp 2.977.000;141;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-312;Penerimaan & Pencatatan Barang;2026-09-27 06:00:00;PT Mandiri Utama;Air Purifier HEPA;Peralatan Rumah Tangga;Rp 1.972.000;Rp 2.398.000;33;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-313;Penerimaan & Pencatatan Barang;2026-09-27 08:00:00;CV Bina Logistik;Tablet Grafis;Elektronik;Rp 4.490.000;Rp 5.401.000;172;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-314;Penerimaan & Pencatatan Barang;2026-09-27 10:00:00;PT Indo Sarana;Tablet Grafis;Elektronik;Rp 4.515.000;Rp 5.346.000;166;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-315;Penerimaan & Pencatatan Barang;2026-09-27 12:00:00;PT Techindo Jaya;Keyboard Mekanikal;Aksesoris Komputer;Rp 433.000;Rp 547.000;184;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-316;Penerimaan & Pencatatan Barang;2026-09-27 14:00:00;PT Indo Sarana;Smart TV 55 Inch;Elektronik;Rp 7.631.000;Rp 9.414.000;110;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-317;Penerimaan & Pencatatan Barang;2026-09-27 16:00:00;PT Indo Sarana;Blender High Power;Peralatan Rumah Tangga;Rp 1.041.000;Rp 1.388.000;228;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-318;Penerimaan & Pencatatan Barang;2026-09-27 18:00:00;PT Mandiri Utama;External SSD 1TB;Aksesoris Komputer;Rp 1.317.000;Rp 1.662.000;174;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-319;Penerimaan & Pencatatan Barang;2026-09-27 20:00:00;CV Bina Logistik;Meja Stand-Desk Auto;Peralatan Kantor;Rp 4.427.000;Rp 5.898.000;92;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-320;Penerimaan & Pencatatan Barang;2026-09-27 22:00:00;PT Mega Elektronik;Proyektor Portable;Peralatan Kantor;Rp 4.230.000;Rp 5.027.000;68;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-321;Penerimaan & Pencatatan Barang;2026-09-28 00:00:00;PT Indo Sarana;Headset Gaming 7.1;Aksesoris Komputer;Rp 603.000;Rp 778.000;181;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-322;Penerimaan & Pencatatan Barang;2026-09-28 02:00:00;PT Indo Sarana;Paper Shredder Heavy-Duty;Peralatan Kantor;Rp 1.531.000;Rp 1.932.000;244;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-323;Penerimaan & Pencatatan Barang;2026-09-28 04:00:00;PT Mega Elektronik;Kursi Ergonomis;Peralatan Kantor;Rp 3.478.000;Rp 4.263.000;106;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-324;Penerimaan & Pencatatan Barang;2026-09-28 06:00:00;PT Mega Elektronik;Kursi Ergonomis;Peralatan Kantor;Rp 2.406.000;Rp 3.226.000;25;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-325;Penerimaan & Pencatatan Barang;2026-09-28 08:00:00;PT Mega Elektronik;Paper Shredder Heavy-Duty;Peralatan Kantor;Rp 1.248.000;Rp 1.485.000;142;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-326;Penerimaan & Pencatatan Barang;2026-09-28 10:00:00;CV Bina Logistik;Mouse Wireless RGB;Aksesoris Komputer;Rp 275.000;Rp 329.000;176;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-327;Penerimaan & Pencatatan Barang;2026-09-28 12:00:00;PT Mandiri Utama;Mouse Wireless RGB;Aksesoris Komputer;Rp 202.000;Rp 248.000;188;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-328;Penerimaan & Pencatatan Barang;2026-09-28 14:00:00;PT Mandiri Utama;Mouse Wireless RGB;Aksesoris Komputer;Rp 438.000;Rp 589.000;45;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-329;Penerimaan & Pencatatan Barang;2026-09-28 16:00:00;PT Mega Elektronik;Mesin Kopi Espresso;Peralatan Rumah Tangga;Rp 4.670.000;Rp 6.270.000;87;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-330;Penerimaan & Pencatatan Barang;2026-09-28 18:00:00;PT Techindo Jaya;Tablet Grafis;Elektronik;Rp 3.474.000;Rp 4.366.000;190;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-331;Penerimaan & Pencatatan Barang;2026-09-28 20:00:00;PT Mandiri Utama;Mesin Kopi Espresso;Peralatan Rumah Tangga;Rp 1.652.000;Rp 2.229.000;106;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-332;Penerimaan & Pencatatan Barang;2026-09-28 22:00:00;PT Techindo Jaya;Kursi Ergonomis;Peralatan Kantor;Rp 1.238.000;Rp 1.497.000;159;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-333;Penerimaan & Pencatatan Barang;2026-09-29 00:00:00;CV Sentosa Perkasa;Paper Shredder Heavy-Duty;Peralatan Kantor;Rp 1.939.000;Rp 2.433.000;232;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-334;Penerimaan & Pencatatan Barang;2026-09-29 02:00:00;PT Indo Sarana;Meja Stand-Desk Auto;Peralatan Kantor;Rp 5.892.000;Rp 6.908.000;46;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-335;Penerimaan & Pencatatan Barang;2026-09-29 04:00:00;PT Mega Elektronik;Meja Stand-Desk Auto;Peralatan Kantor;Rp 2.559.000;Rp 3.319.000;207;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-336;Penerimaan & Pencatatan Barang;2026-09-29 06:00:00;PT Mandiri Utama;External SSD 1TB;Aksesoris Komputer;Rp 1.769.000;Rp 2.351.000;216;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-337;Penerimaan & Pencatatan Barang;2026-09-29 08:00:00;PT Mandiri Utama;Smart TV 55 Inch;Elektronik;Rp 10.614.000;Rp 12.408.000;40;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-338;Penerimaan & Pencatatan Barang;2026-09-29 10:00:00;PT Mega Elektronik;Mouse Wireless RGB;Aksesoris Komputer;Rp 286.000;Rp 350.000;119;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-339;Penerimaan & Pencatatan Barang;2026-09-29 12:00:00;PT Mega Elektronik;Proyektor Portable;Peralatan Kantor;Rp 4.602.000;Rp 5.302.000;172;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-340;Penerimaan & Pencatatan Barang;2026-09-29 14:00:00;PT Indo Sarana;Laptop Gaming Pro;Elektronik;Rp 19.808.000;Rp 23.994.000;108;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-341;Penerimaan & Pencatatan Barang;2026-09-29 16:00:00;CV Sentosa Perkasa;Monitor 4K 27 Inch;Elektronik;Rp 5.041.000;Rp 6.416.000;61;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-342;Penerimaan & Pencatatan Barang;2026-09-29 18:00:00;CV Bina Logistik;Webcam HD 1080p;Aksesoris Komputer;Rp 567.000;Rp 694.000;184;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-343;Penerimaan & Pencatatan Barang;2026-09-29 20:00:00;CV Bina Logistik;Switch Gigabit 16-Port;Peralatan Jaringan;Rp 1.498.000;Rp 1.796.000;198;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-344;Penerimaan & Pencatatan Barang;2026-09-29 22:00:00;CV Bina Logistik;NAS Storage 2-Bay;Peralatan Jaringan;Rp 4.715.000;Rp 6.085.000;24;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-345;Penerimaan & Pencatatan Barang;2026-09-30 00:00:00;CV Sentosa Perkasa;Tablet Grafis;Elektronik;Rp 4.620.000;Rp 5.499.000;142;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-346;Penerimaan & Pencatatan Barang;2026-09-30 02:00:00;PT Indo Sarana;Proyektor Portable;Peralatan Kantor;Rp 4.053.000;Rp 4.755.000;57;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-347;Penerimaan & Pencatatan Barang;2026-09-30 04:00:00;CV Sentosa Perkasa;Tablet Grafis;Elektronik;Rp 4.368.000;Rp 5.729.000;121;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-348;Penerimaan & Pencatatan Barang;2026-09-30 06:00:00;PT Mega Elektronik;Blender High Power;Peralatan Rumah Tangga;Rp 460.000;Rp 580.000;177;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-349;Penerimaan & Pencatatan Barang;2026-09-30 08:00:00;CV Bina Logistik;Robot Vacuum Cleaner;Peralatan Rumah Tangga;Rp 5.424.000;Rp 6.240.000;60;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-350;Penerimaan & Pencatatan Barang;2026-09-30 10:00:00;PT Techindo Jaya;Smart TV 55 Inch;Elektronik;Rp 7.890.000;Rp 10.178.000;143;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-351;Penerimaan & Pencatatan Barang;2026-09-30 12:00:00;CV Sentosa Perkasa;Air Purifier HEPA;Peralatan Rumah Tangga;Rp 1.802.000;Rp 2.219.000;201;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-352;Penerimaan & Pencatatan Barang;2026-09-30 14:00:00;PT Mandiri Utama;Paper Shredder Heavy-Duty;Peralatan Kantor;Rp 1.740.000;Rp 2.303.000;237;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-353;Penerimaan & Pencatatan Barang;2026-09-30 16:00:00;PT Techindo Jaya;Tablet Grafis;Elektronik;Rp 3.057.000;Rp 3.915.000;94;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-354;Penerimaan & Pencatatan Barang;2026-09-30 18:00:00;PT Techindo Jaya;NAS Storage 2-Bay;Peralatan Jaringan;Rp 4.718.000;Rp 5.545.000;62;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-355;Penerimaan & Pencatatan Barang;2026-09-30 20:00:00;CV Sentosa Perkasa;Paper Shredder Heavy-Duty;Peralatan Kantor;Rp 1.941.000;Rp 2.396.000;102;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-356;Penerimaan & Pencatatan Barang;2026-09-30 22:00:00;PT Indo Sarana;Robot Vacuum Cleaner;Peralatan Rumah Tangga;Rp 2.650.000;Rp 3.193.000;244;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-357;Penerimaan & Pencatatan Barang;2026-10-01 00:00:00;PT Techindo Jaya;Smart TV 55 Inch;Elektronik;Rp 10.158.000;Rp 13.238.000;231;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-358;Penerimaan & Pencatatan Barang;2026-10-01 02:00:00;CV Bina Logistik;Mouse Wireless RGB;Aksesoris Komputer;Rp 202.000;Rp 256.000;119;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-359;Penerimaan & Pencatatan Barang;2026-10-01 04:00:00;CV Sentosa Perkasa;Mouse Wireless RGB;Aksesoris Komputer;Rp 360.000;Rp 445.000;143;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-360;Penerimaan & Pencatatan Barang;2026-10-01 06:00:00;PT Indo Sarana;External SSD 1TB;Aksesoris Komputer;Rp 1.403.000;Rp 1.679.000;239;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-361;Penerimaan & Pencatatan Barang;2026-10-01 08:00:00;PT Indo Sarana;Access Point Enterprise;Peralatan Jaringan;Rp 1.696.000;Rp 2.052.000;41;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-362;Penerimaan & Pencatatan Barang;2026-10-01 10:00:00;CV Bina Logistik;Robot Vacuum Cleaner;Peralatan Rumah Tangga;Rp 3.154.000;Rp 3.665.000;247;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-363;Penerimaan & Pencatatan Barang;2026-10-01 12:00:00;PT Indo Sarana;Blender High Power;Peralatan Rumah Tangga;Rp 919.000;Rp 1.065.000;93;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-364;Penerimaan & Pencatatan Barang;2026-10-01 14:00:00;PT Mega Elektronik;Access Point Enterprise;Peralatan Jaringan;Rp 2.660.000;Rp 3.280.000;43;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-365;Penerimaan & Pencatatan Barang;2026-10-01 16:00:00;PT Mega Elektronik;External SSD 1TB;Aksesoris Komputer;Rp 1.596.000;Rp 1.912.000;62;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-366;Penerimaan & Pencatatan Barang;2026-10-01 18:00:00;CV Bina Logistik;Air Purifier HEPA;Peralatan Rumah Tangga;Rp 2.379.000;Rp 2.932.000;111;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-367;Penerimaan & Pencatatan Barang;2026-10-01 20:00:00;PT Techindo Jaya;Mesin Kopi Espresso;Peralatan Rumah Tangga;Rp 2.569.000;Rp 3.058.000;170;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-368;Penerimaan & Pencatatan Barang;2026-10-01 22:00:00;PT Techindo Jaya;Kursi Ergonomis;Peralatan Kantor;Rp 3.446.000;Rp 4.462.000;53;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-369;Penerimaan & Pencatatan Barang;2026-10-02 00:00:00;CV Sentosa Perkasa;Blender High Power;Peralatan Rumah Tangga;Rp 1.032.000;Rp 1.194.000;23;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-370;Penerimaan & Pencatatan Barang;2026-10-02 02:00:00;PT Techindo Jaya;Mesin Kopi Espresso;Peralatan Rumah Tangga;Rp 2.896.000;Rp 3.506.000;237;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-371;Penerimaan & Pencatatan Barang;2026-10-02 04:00:00;CV Bina Logistik;Mouse Wireless RGB;Aksesoris Komputer;Rp 401.000;Rp 534.000;183;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-372;Penerimaan & Pencatatan Barang;2026-10-02 06:00:00;PT Mandiri Utama;Mesin Kopi Espresso;Peralatan Rumah Tangga;Rp 3.815.000;Rp 4.632.000;77;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-373;Penerimaan & Pencatatan Barang;2026-10-02 08:00:00;PT Mandiri Utama;Access Point Enterprise;Peralatan Jaringan;Rp 1.846.000;Rp 2.219.000;136;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-374;Penerimaan & Pencatatan Barang;2026-10-02 10:00:00;CV Sentosa Perkasa;Smart TV 55 Inch;Elektronik;Rp 11.389.000;Rp 15.010.000;239;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-375;Penerimaan & Pencatatan Barang;2026-10-02 12:00:00;PT Indo Sarana;Paper Shredder Heavy-Duty;Peralatan Kantor;Rp 895.000;Rp 1.129.000;61;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-376;Penerimaan & Pencatatan Barang;2026-10-02 14:00:00;PT Indo Sarana;Monitor 4K 27 Inch;Elektronik;Rp 5.820.000;Rp 7.781.000;153;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-377;Penerimaan & Pencatatan Barang;2026-10-02 16:00:00;CV Bina Logistik;Meja Stand-Desk Auto;Peralatan Kantor;Rp 3.322.000;Rp 4.039.000;102;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-378;Penerimaan & Pencatatan Barang;2026-10-02 18:00:00;PT Mega Elektronik;Blender High Power;Peralatan Rumah Tangga;Rp 1.086.000;Rp 1.453.000;91;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-379;Penerimaan & Pencatatan Barang;2026-10-02 20:00:00;CV Sentosa Perkasa;Microwave Digital;Peralatan Rumah Tangga;Rp 1.252.000;Rp 1.623.000;95;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-380;Penerimaan & Pencatatan Barang;2026-10-02 22:00:00;PT Indo Sarana;NAS Storage 2-Bay;Peralatan Jaringan;Rp 3.271.000;Rp 4.361.000;143;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-381;Penerimaan & Pencatatan Barang;2026-10-03 00:00:00;PT Techindo Jaya;Router Wi-Fi 6;Peralatan Jaringan;Rp 755.000;Rp 1.010.000;176;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-382;Penerimaan & Pencatatan Barang;2026-10-03 02:00:00;CV Sentosa Perkasa;Mesin Kopi Espresso;Peralatan Rumah Tangga;Rp 4.145.000;Rp 4.958.000;186;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-383;Penerimaan & Pencatatan Barang;2026-10-03 04:00:00;PT Indo Sarana;External SSD 1TB;Aksesoris Komputer;Rp 1.578.000;Rp 1.932.000;163;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-384;Penerimaan & Pencatatan Barang;2026-10-03 06:00:00;PT Techindo Jaya;Air Purifier HEPA;Peralatan Rumah Tangga;Rp 1.213.000;Rp 1.524.000;110;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-385;Penerimaan & Pencatatan Barang;2026-10-03 08:00:00;CV Bina Logistik;Access Point Enterprise;Peralatan Jaringan;Rp 2.323.000;Rp 3.125.000;9;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-386;Penerimaan & Pencatatan Barang;2026-10-03 10:00:00;CV Sentosa Perkasa;Mouse Wireless RGB;Aksesoris Komputer;Rp 200.000;Rp 250.000;66;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-387;Penerimaan & Pencatatan Barang;2026-10-03 12:00:00;PT Mandiri Utama;Printer Laser Multifungsi;Peralatan Kantor;Rp 3.464.000;Rp 4.038.000;250;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-388;Penerimaan & Pencatatan Barang;2026-10-03 14:00:00;PT Techindo Jaya;Switch Gigabit 16-Port;Peralatan Jaringan;Rp 1.431.000;Rp 1.710.000;180;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-389;Penerimaan & Pencatatan Barang;2026-10-03 16:00:00;PT Techindo Jaya;Smart TV 55 Inch;Elektronik;Rp 8.181.000;Rp 10.025.000;126;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-390;Penerimaan & Pencatatan Barang;2026-10-03 18:00:00;PT Mega Elektronik;Mouse Wireless RGB;Aksesoris Komputer;Rp 412.000;Rp 543.000;170;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-391;Penerimaan & Pencatatan Barang;2026-10-03 20:00:00;PT Indo Sarana;Router Wi-Fi 6;Peralatan Jaringan;Rp 1.081.000;Rp 1.288.000;227;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-392;Penerimaan & Pencatatan Barang;2026-10-03 22:00:00;CV Bina Logistik;Kursi Ergonomis;Peralatan Kantor;Rp 1.511.000;Rp 1.944.000;76;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-393;Penerimaan & Pencatatan Barang;2026-10-04 00:00:00;CV Sentosa Perkasa;Headset Gaming 7.1;Aksesoris Komputer;Rp 316.000;Rp 424.000;155;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-394;Penerimaan & Pencatatan Barang;2026-10-04 02:00:00;PT Mandiri Utama;Monitor 4K 27 Inch;Elektronik;Rp 4.181.000;Rp 5.279.000;150;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-395;Penerimaan & Pencatatan Barang;2026-10-04 04:00:00;PT Techindo Jaya;Mesin Kopi Espresso;Peralatan Rumah Tangga;Rp 4.815.000;Rp 6.489.000;190;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-396;Penerimaan & Pencatatan Barang;2026-10-04 06:00:00;PT Mega Elektronik;Laptop Gaming Pro;Elektronik;Rp 19.333.000;Rp 23.130.000;24;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-397;Penerimaan & Pencatatan Barang;2026-10-04 08:00:00;PT Mandiri Utama;Kursi Ergonomis;Peralatan Kantor;Rp 2.346.000;Rp 3.065.000;120;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-398;Penerimaan & Pencatatan Barang;2026-10-04 10:00:00;CV Bina Logistik;Proyektor Portable;Peralatan Kantor;Rp 3.774.000;Rp 4.666.000;179;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-399;Penerimaan & Pencatatan Barang;2026-10-04 12:00:00;PT Techindo Jaya;Tablet Grafis;Elektronik;Rp 3.738.000;Rp 4.895.000;187;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-400;Penerimaan & Pencatatan Barang;2026-10-04 14:00:00;CV Sentosa Perkasa;Meja Stand-Desk Auto;Peralatan Kantor;Rp 4.093.000;Rp 5.289.000;167;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-401;Penerimaan & Pencatatan Barang;2026-10-04 16:00:00;PT Mega Elektronik;Printer Laser Multifungsi;Peralatan Kantor;Rp 2.246.000;Rp 2.624.000;246;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-402;Penerimaan & Pencatatan Barang;2026-10-04 18:00:00;PT Mandiri Utama;Printer Laser Multifungsi;Peralatan Kantor;Rp 2.228.000;Rp 2.621.000;52;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-403;Penerimaan & Pencatatan Barang;2026-10-04 20:00:00;CV Bina Logistik;NAS Storage 2-Bay;Peralatan Jaringan;Rp 2.933.000;Rp 3.388.000;95;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-404;Penerimaan & Pencatatan Barang;2026-10-04 22:00:00;PT Mandiri Utama;Access Point Enterprise;Peralatan Jaringan;Rp 3.011.000;Rp 3.694.000;79;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-405;Penerimaan & Pencatatan Barang;2026-10-05 00:00:00;PT Indo Sarana;Tablet Grafis;Elektronik;Rp 3.518.000;Rp 4.448.000;48;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-406;Penerimaan & Pencatatan Barang;2026-10-05 02:00:00;CV Sentosa Perkasa;Keyboard Mekanikal;Aksesoris Komputer;Rp 681.000;Rp 824.000;131;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-407;Penerimaan & Pencatatan Barang;2026-10-05 04:00:00;PT Techindo Jaya;Webcam HD 1080p;Aksesoris Komputer;Rp 394.000;Rp 486.000;128;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-408;Penerimaan & Pencatatan Barang;2026-10-05 06:00:00;CV Bina Logistik;Meja Stand-Desk Auto;Peralatan Kantor;Rp 5.523.000;Rp 7.041.000;157;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-409;Penerimaan & Pencatatan Barang;2026-10-05 08:00:00;PT Mandiri Utama;Air Purifier HEPA;Peralatan Rumah Tangga;Rp 1.484.000;Rp 1.797.000;247;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-410;Penerimaan & Pencatatan Barang;2026-10-05 10:00:00;PT Indo Sarana;NAS Storage 2-Bay;Peralatan Jaringan;Rp 3.882.000;Rp 4.806.000;115;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-411;Penerimaan & Pencatatan Barang;2026-10-05 12:00:00;PT Mandiri Utama;Printer Laser Multifungsi;Peralatan Kantor;Rp 4.330.000;Rp 5.799.000;56;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-412;Penerimaan & Pencatatan Barang;2026-10-05 14:00:00;PT Indo Sarana;Webcam HD 1080p;Aksesoris Komputer;Rp 417.000;Rp 503.000;182;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-413;Penerimaan & Pencatatan Barang;2026-10-05 16:00:00;PT Mandiri Utama;Switch Gigabit 16-Port;Peralatan Jaringan;Rp 1.041.000;Rp 1.275.000;214;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-414;Penerimaan & Pencatatan Barang;2026-10-05 18:00:00;CV Sentosa Perkasa;Tablet Grafis;Elektronik;Rp 3.338.000;Rp 4.234.000;144;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-415;Penerimaan & Pencatatan Barang;2026-10-05 20:00:00;PT Indo Sarana;Mesin Kopi Espresso;Peralatan Rumah Tangga;Rp 3.339.000;Rp 4.372.000;217;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-416;Penerimaan & Pencatatan Barang;2026-10-05 22:00:00;PT Mega Elektronik;Microwave Digital;Peralatan Rumah Tangga;Rp 1.191.000;Rp 1.520.000;66;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-417;Penerimaan & Pencatatan Barang;2026-10-06 00:00:00;PT Mandiri Utama;Microwave Digital;Peralatan Rumah Tangga;Rp 1.055.000;Rp 1.308.000;158;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-418;Penerimaan & Pencatatan Barang;2026-10-06 02:00:00;PT Indo Sarana;NAS Storage 2-Bay;Peralatan Jaringan;Rp 4.780.000;Rp 5.532.000;97;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-419;Penerimaan & Pencatatan Barang;2026-10-06 04:00:00;PT Techindo Jaya;Smartphone Flagship;Elektronik;Rp 13.956.000;Rp 16.513.000;161;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-420;Penerimaan & Pencatatan Barang;2026-10-06 06:00:00;CV Sentosa Perkasa;Paper Shredder Heavy-Duty;Peralatan Kantor;Rp 1.022.000;Rp 1.177.000;71;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-421;Penerimaan & Pencatatan Barang;2026-10-06 08:00:00;CV Bina Logistik;Robot Vacuum Cleaner;Peralatan Rumah Tangga;Rp 3.640.000;Rp 4.523.000;178;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-422;Penerimaan & Pencatatan Barang;2026-10-06 10:00:00;PT Techindo Jaya;Kursi Ergonomis;Peralatan Kantor;Rp 3.224.000;Rp 3.775.000;111;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-423;Penerimaan & Pencatatan Barang;2026-10-06 12:00:00;CV Sentosa Perkasa;Headset Gaming 7.1;Aksesoris Komputer;Rp 627.000;Rp 764.000;205;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-424;Penerimaan & Pencatatan Barang;2026-10-06 14:00:00;PT Mandiri Utama;Paper Shredder Heavy-Duty;Peralatan Kantor;Rp 1.004.000;Rp 1.242.000;183;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-425;Penerimaan & Pencatatan Barang;2026-10-06 16:00:00;PT Techindo Jaya;Monitor 4K 27 Inch;Elektronik;Rp 3.687.000;Rp 4.837.000;34;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-426;Penerimaan & Pencatatan Barang;2026-10-06 18:00:00;CV Sentosa Perkasa;Smartphone Flagship;Elektronik;Rp 12.092.000;Rp 15.153.000;146;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-427;Penerimaan & Pencatatan Barang;2026-10-06 20:00:00;PT Indo Sarana;NAS Storage 2-Bay;Peralatan Jaringan;Rp 4.437.000;Rp 5.308.000;108;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-428;Penerimaan & Pencatatan Barang;2026-10-06 22:00:00;CV Sentosa Perkasa;Webcam HD 1080p;Aksesoris Komputer;Rp 457.000;Rp 528.000;162;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-429;Penerimaan & Pencatatan Barang;2026-10-07 00:00:00;CV Sentosa Perkasa;NAS Storage 2-Bay;Peralatan Jaringan;Rp 4.130.000;Rp 4.753.000;59;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-430;Penerimaan & Pencatatan Barang;2026-10-07 02:00:00;CV Sentosa Perkasa;Tablet Grafis;Elektronik;Rp 2.926.000;Rp 3.832.000;142;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-431;Penerimaan & Pencatatan Barang;2026-10-07 04:00:00;PT Mandiri Utama;Meja Stand-Desk Auto;Peralatan Kantor;Rp 4.419.000;Rp 5.182.000;176;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-432;Penerimaan & Pencatatan Barang;2026-10-07 06:00:00;PT Mega Elektronik;NAS Storage 2-Bay;Peralatan Jaringan;Rp 5.064.000;Rp 6.221.000;34;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-433;Penerimaan & Pencatatan Barang;2026-10-07 08:00:00;PT Mega Elektronik;Blender High Power;Peralatan Rumah Tangga;Rp 580.000;Rp 761.000;185;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-434;Penerimaan & Pencatatan Barang;2026-10-07 10:00:00;CV Sentosa Perkasa;Headset Gaming 7.1;Aksesoris Komputer;Rp 423.000;Rp 506.000;34;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-435;Penerimaan & Pencatatan Barang;2026-10-07 12:00:00;CV Bina Logistik;External SSD 1TB;Aksesoris Komputer;Rp 1.507.000;Rp 1.859.000;40;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-436;Penerimaan & Pencatatan Barang;2026-10-07 14:00:00;PT Indo Sarana;Mesin Kopi Espresso;Peralatan Rumah Tangga;Rp 3.541.000;Rp 4.522.000;182;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-437;Penerimaan & Pencatatan Barang;2026-10-07 16:00:00;PT Mega Elektronik;Switch Gigabit 16-Port;Peralatan Jaringan;Rp 1.213.000;Rp 1.465.000;52;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-438;Penerimaan & Pencatatan Barang;2026-10-07 18:00:00;CV Sentosa Perkasa;Router Wi-Fi 6;Peralatan Jaringan;Rp 1.352.000;Rp 1.812.000;129;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-439;Penerimaan & Pencatatan Barang;2026-10-07 20:00:00;PT Indo Sarana;Blender High Power;Peralatan Rumah Tangga;Rp 929.000;Rp 1.189.000;109;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-440;Penerimaan & Pencatatan Barang;2026-10-07 22:00:00;PT Techindo Jaya;Microwave Digital;Peralatan Rumah Tangga;Rp 1.924.000;Rp 2.276.000;149;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-441;Penerimaan & Pencatatan Barang;2026-10-08 00:00:00;CV Sentosa Perkasa;Kursi Ergonomis;Peralatan Kantor;Rp 2.352.000;Rp 2.810.000;78;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-442;Penerimaan & Pencatatan Barang;2026-10-08 02:00:00;PT Techindo Jaya;NAS Storage 2-Bay;Peralatan Jaringan;Rp 4.805.000;Rp 6.016.000;151;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-443;Penerimaan & Pencatatan Barang;2026-10-08 04:00:00;PT Indo Sarana;Access Point Enterprise;Peralatan Jaringan;Rp 2.336.000;Rp 3.070.000;15;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-444;Penerimaan & Pencatatan Barang;2026-10-08 06:00:00;PT Indo Sarana;Switch Gigabit 16-Port;Peralatan Jaringan;Rp 1.145.000;Rp 1.340.000;217;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-445;Penerimaan & Pencatatan Barang;2026-10-08 08:00:00;PT Techindo Jaya;Kursi Ergonomis;Peralatan Kantor;Rp 3.086.000;Rp 3.711.000;225;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-446;Penerimaan & Pencatatan Barang;2026-10-08 10:00:00;PT Indo Sarana;Smartphone Flagship;Elektronik;Rp 11.521.000;Rp 15.117.000;155;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-447;Penerimaan & Pencatatan Barang;2026-10-08 12:00:00;CV Sentosa Perkasa;NAS Storage 2-Bay;Peralatan Jaringan;Rp 3.196.000;Rp 4.069.000;205;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-448;Penerimaan & Pencatatan Barang;2026-10-08 14:00:00;CV Bina Logistik;Tablet Grafis;Elektronik;Rp 3.971.000;Rp 4.989.000;157;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-449;Penerimaan & Pencatatan Barang;2026-10-08 16:00:00;CV Bina Logistik;Printer Laser Multifungsi;Peralatan Kantor;Rp 3.013.000;Rp 3.810.000;248;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-450;Penerimaan & Pencatatan Barang;2026-10-08 18:00:00;PT Indo Sarana;Webcam HD 1080p;Aksesoris Komputer;Rp 281.000;Rp 378.000;226;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-451;Penerimaan & Pencatatan Barang;2026-10-08 20:00:00;CV Sentosa Perkasa;Keyboard Mekanikal;Aksesoris Komputer;Rp 553.000;Rp 714.000;217;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-452;Penerimaan & Pencatatan Barang;2026-10-08 22:00:00;PT Mandiri Utama;Mesin Kopi Espresso;Peralatan Rumah Tangga;Rp 3.921.000;Rp 5.005.000;165;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-453;Penerimaan & Pencatatan Barang;2026-10-09 00:00:00;PT Techindo Jaya;Air Purifier HEPA;Peralatan Rumah Tangga;Rp 2.528.000;Rp 3.308.000;201;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-454;Penerimaan & Pencatatan Barang;2026-10-09 02:00:00;PT Mandiri Utama;Access Point Enterprise;Peralatan Jaringan;Rp 2.656.000;Rp 3.551.000;99;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-455;Penerimaan & Pencatatan Barang;2026-10-09 04:00:00;PT Indo Sarana;Proyektor Portable;Peralatan Kantor;Rp 2.210.000;Rp 2.925.000;221;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-456;Penerimaan & Pencatatan Barang;2026-10-09 06:00:00;PT Mandiri Utama;Robot Vacuum Cleaner;Peralatan Rumah Tangga;Rp 5.565.000;Rp 6.470.000;141;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-457;Penerimaan & Pencatatan Barang;2026-10-09 08:00:00;PT Mega Elektronik;Mesin Kopi Espresso;Peralatan Rumah Tangga;Rp 3.574.000;Rp 4.302.000;217;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-458;Penerimaan & Pencatatan Barang;2026-10-09 10:00:00;PT Mega Elektronik;Switch Gigabit 16-Port;Peralatan Jaringan;Rp 1.293.000;Rp 1.707.000;206;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-459;Penerimaan & Pencatatan Barang;2026-10-09 12:00:00;PT Techindo Jaya;Laptop Gaming Pro;Elektronik;Rp 22.505.000;Rp 29.409.000;122;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-460;Penerimaan & Pencatatan Barang;2026-10-09 14:00:00;PT Mandiri Utama;Webcam HD 1080p;Aksesoris Komputer;Rp 489.000;Rp 562.000;250;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-461;Penerimaan & Pencatatan Barang;2026-10-09 16:00:00;PT Mega Elektronik;Headset Gaming 7.1;Aksesoris Komputer;Rp 466.000;Rp 617.000;229;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-462;Penerimaan & Pencatatan Barang;2026-10-09 18:00:00;PT Indo Sarana;Printer Laser Multifungsi;Peralatan Kantor;Rp 2.145.000;Rp 2.626.000;236;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-463;Penerimaan & Pencatatan Barang;2026-10-09 20:00:00;CV Sentosa Perkasa;Smart TV 55 Inch;Elektronik;Rp 10.247.000;Rp 12.410.000;184;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-464;Penerimaan & Pencatatan Barang;2026-10-09 22:00:00;CV Sentosa Perkasa;Laptop Gaming Pro;Elektronik;Rp 12.018.000;Rp 14.333.000;24;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-465;Penerimaan & Pencatatan Barang;2026-10-10 00:00:00;PT Techindo Jaya;NAS Storage 2-Bay;Peralatan Jaringan;Rp 2.538.000;Rp 2.922.000;92;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-466;Penerimaan & Pencatatan Barang;2026-10-10 02:00:00;PT Indo Sarana;Webcam HD 1080p;Aksesoris Komputer;Rp 287.000;Rp 343.000;27;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-467;Penerimaan & Pencatatan Barang;2026-10-10 04:00:00;PT Mandiri Utama;Monitor 4K 27 Inch;Elektronik;Rp 5.041.000;Rp 6.685.000;40;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-468;Penerimaan & Pencatatan Barang;2026-10-10 06:00:00;PT Indo Sarana;Mouse Wireless RGB;Aksesoris Komputer;Rp 428.000;Rp 540.000;161;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-469;Penerimaan & Pencatatan Barang;2026-10-10 08:00:00;CV Sentosa Perkasa;Robot Vacuum Cleaner;Peralatan Rumah Tangga;Rp 5.030.000;Rp 5.998.000;196;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-470;Penerimaan & Pencatatan Barang;2026-10-10 10:00:00;CV Sentosa Perkasa;NAS Storage 2-Bay;Peralatan Jaringan;Rp 3.411.000;Rp 3.981.000;30;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-471;Penerimaan & Pencatatan Barang;2026-10-10 12:00:00;CV Sentosa Perkasa;NAS Storage 2-Bay;Peralatan Jaringan;Rp 3.974.000;Rp 5.335.000;85;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-472;Penerimaan & Pencatatan Barang;2026-10-10 14:00:00;PT Indo Sarana;Kursi Ergonomis;Peralatan Kantor;Rp 2.240.000;Rp 2.823.000;158;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-473;Penerimaan & Pencatatan Barang;2026-10-10 16:00:00;CV Sentosa Perkasa;Monitor 4K 27 Inch;Elektronik;Rp 4.361.000;Rp 5.466.000;135;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-474;Penerimaan & Pencatatan Barang;2026-10-10 18:00:00;CV Sentosa Perkasa;Kursi Ergonomis;Peralatan Kantor;Rp 2.203.000;Rp 2.751.000;33;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-475;Penerimaan & Pencatatan Barang;2026-10-10 20:00:00;PT Mega Elektronik;Router Wi-Fi 6;Peralatan Jaringan;Rp 1.707.000;Rp 2.266.000;8;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-476;Penerimaan & Pencatatan Barang;2026-10-10 22:00:00;PT Indo Sarana;Webcam HD 1080p;Aksesoris Komputer;Rp 547.000;Rp 675.000;144;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-477;Penerimaan & Pencatatan Barang;2026-10-11 00:00:00;PT Mega Elektronik;Air Purifier HEPA;Peralatan Rumah Tangga;Rp 1.235.000;Rp 1.565.000;8;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-478;Penerimaan & Pencatatan Barang;2026-10-11 02:00:00;PT Indo Sarana;Laptop Gaming Pro;Elektronik;Rp 18.676.000;Rp 23.369.000;165;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-479;Penerimaan & Pencatatan Barang;2026-10-11 04:00:00;CV Bina Logistik;Microwave Digital;Peralatan Rumah Tangga;Rp 1.072.000;Rp 1.370.000;142;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-480;Penerimaan & Pencatatan Barang;2026-10-11 06:00:00;CV Sentosa Perkasa;Kursi Ergonomis;Peralatan Kantor;Rp 2.499.000;Rp 2.913.000;240;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-481;Penerimaan & Pencatatan Barang;2026-10-11 08:00:00;PT Indo Sarana;Access Point Enterprise;Peralatan Jaringan;Rp 2.019.000;Rp 2.558.000;200;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-482;Penerimaan & Pencatatan Barang;2026-10-11 10:00:00;PT Mandiri Utama;Paper Shredder Heavy-Duty;Peralatan Kantor;Rp 1.300.000;Rp 1.510.000;27;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-483;Penerimaan & Pencatatan Barang;2026-10-11 12:00:00;PT Indo Sarana;Blender High Power;Peralatan Rumah Tangga;Rp 1.038.000;Rp 1.205.000;175;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-484;Penerimaan & Pencatatan Barang;2026-10-11 14:00:00;CV Sentosa Perkasa;Laptop Gaming Pro;Elektronik;Rp 23.876.000;Rp 28.112.000;7;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-485;Penerimaan & Pencatatan Barang;2026-10-11 16:00:00;PT Mega Elektronik;Proyektor Portable;Peralatan Kantor;Rp 4.369.000;Rp 5.708.000;189;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-486;Penerimaan & Pencatatan Barang;2026-10-11 18:00:00;PT Indo Sarana;Meja Stand-Desk Auto;Peralatan Kantor;Rp 5.644.000;Rp 7.372.000;73;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-487;Penerimaan & Pencatatan Barang;2026-10-11 20:00:00;PT Techindo Jaya;Monitor 4K 27 Inch;Elektronik;Rp 6.885.000;Rp 8.508.000;139;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-488;Penerimaan & Pencatatan Barang;2026-10-11 22:00:00;PT Techindo Jaya;Router Wi-Fi 6;Peralatan Jaringan;Rp 1.640.000;Rp 2.035.000;97;Gudang Cabang (Medan);Tersimpan di Gudang
+BRG-489;Penerimaan & Pencatatan Barang;2026-10-12 00:00:00;PT Techindo Jaya;Switch Gigabit 16-Port;Peralatan Jaringan;Rp 1.085.000;Rp 1.281.000;202;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-490;Penerimaan & Pencatatan Barang;2026-10-12 02:00:00;PT Techindo Jaya;External SSD 1TB;Aksesoris Komputer;Rp 1.102.000;Rp 1.277.000;225;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-491;Penerimaan & Pencatatan Barang;2026-10-12 04:00:00;CV Sentosa Perkasa;Smart TV 55 Inch;Elektronik;Rp 8.053.000;Rp 9.877.000;43;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-492;Penerimaan & Pencatatan Barang;2026-10-12 06:00:00;PT Indo Sarana;NAS Storage 2-Bay;Peralatan Jaringan;Rp 3.441.000;Rp 4.178.000;111;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-493;Penerimaan & Pencatatan Barang;2026-10-12 08:00:00;PT Techindo Jaya;Kursi Ergonomis;Peralatan Kantor;Rp 2.763.000;Rp 3.243.000;177;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-494;Penerimaan & Pencatatan Barang;2026-10-12 10:00:00;PT Mandiri Utama;External SSD 1TB;Aksesoris Komputer;Rp 1.148.000;Rp 1.539.000;22;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-495;Penerimaan & Pencatatan Barang;2026-10-12 12:00:00;PT Mega Elektronik;Printer Laser Multifungsi;Peralatan Kantor;Rp 2.162.000;Rp 2.725.000;7;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-496;Penerimaan & Pencatatan Barang;2026-10-12 14:00:00;PT Mandiri Utama;Proyektor Portable;Peralatan Kantor;Rp 3.474.000;Rp 4.508.000;67;Gudang Cabang (Surabaya);Tersimpan di Gudang
+BRG-497;Penerimaan & Pencatatan Barang;2026-10-12 16:00:00;CV Sentosa Perkasa;NAS Storage 2-Bay;Peralatan Jaringan;Rp 3.319.000;Rp 4.303.000;144;Gudang Cabang (Bandung);Tersimpan di Gudang
+BRG-498;Penerimaan & Pencatatan Barang;2026-10-12 18:00:00;PT Indo Sarana;Smart TV 55 Inch;Elektronik;Rp 5.200.000;Rp 6.222.000;93;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-499;Penerimaan & Pencatatan Barang;2026-10-12 20:00:00;PT Mega Elektronik;Kursi Ergonomis;Peralatan Kantor;Rp 2.778.000;Rp 3.666.000;191;Gudang Utama (Jakarta);Tersimpan di Gudang
+BRG-500;Penerimaan & Pencatatan Barang;2026-10-12 22:00:00;CV Sentosa Perkasa;External SSD 1TB;Aksesoris Komputer;Rp 1.349.000;Rp 1.664.000;20;Gudang Cabang (Surabaya);Tersimpan di Gudang
